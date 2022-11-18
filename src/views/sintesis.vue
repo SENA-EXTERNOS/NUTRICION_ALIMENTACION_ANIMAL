@@ -3,13 +3,18 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Con el diagrama de actividades se termina la descripción de las tres técnicas usadas para la especificación y el análisis de requisitos, como se pudo analizar cada una de las técnicas nos brinda características para lograr representar gráficamente y de una forma clara, los requisitos que un usuario necesita poder cumplir satisfactoriamente con las solicitudes de los clientes y usuarios, por otro lado se pueden usar todas las técnicas en una especificación y análisis de requisitos si se ve la necesidad.
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
+    .titulo-sexto.color-titulo-sexto
+      h4.texto-titulo-sintesis Manejo de la producción agroecológica.
+      p.texto-titulo-sintesis Síntesis: CF7 Nutrición y alimentación animal
+
+
+    p El programa de alimentación agroecológica, actualmente, nos brinda una amplia variedad de técnicas para ser económicamente competitivos sin bajar los estándares de producción y sin contribuir con el deterioro del entorno. En la crianza de animales es necesario saber la anatomía y fisiología de los aparatos digestivos de las distintas especies de importancia zootécnica, conocer las diferencias entre un monogástrico y un poligástrico para suministrar las dietas más adecuadas para cada especie. Identificar las diferencias entre la alimentación y la nutrición permite hacer énfasis en la generación de dietas con altos valores nutricionales que correspondan con la etapa de desarrollo del animal y puedan aportar en su crecimiento y, por ende, en la producción. Conocer el valor nutritivo de los alimentos incluye saber su composición y la función y aporte de los carbohidratos, grasas, proteínas, vitaminas y minerales esenciales para suplir los requerimientos vitales diarios.
+    p En ese sentido, los pastos y forrajes son la principal fuente de alimento en la producción de animales, por lo que es necesario usar sistemas de pastoreo para conservar los suelos y evitar la pérdida de las propiedades, la compactación y la degradación. De esta manera, se puede garantizar la nutrición de las especies que se estén alimentando. En épocas de abundancia de pastos y material forrajero, se usarán técnicas de conservación de las plantaciones, para así tener provisiones durante todo el año y evitar bajar los rendimientos productivos. A continuación, un resumen de lo visto en el presente componente y podrá ser visualizado en el siguiente mapa conceptual.
 
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/temas/img-sintesis.png", alt="alt").img-sintesis
       .col-auto
         a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
           .anexo__icono
