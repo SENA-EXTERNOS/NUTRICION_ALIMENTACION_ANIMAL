@@ -75,56 +75,56 @@
                 li 
                   .lista-ol--cuadro__vineta
                     span 2
-                  | Algunas de las especies de árboles pueden ser empleados en la #[strong alimentación animal.]
+                  | Algunas de las especies de árboles pueden ser empleados en la alimentación animal.
 
                 li 
                   .lista-ol--cuadro__vineta
                     span 3
-                  | Aprovechamiento de las #[strong especies maderables.]
+                  | Aprovechamiento de las especies maderables.
 
                 li 
                   .lista-ol--cuadro__vineta
                     span 4
-                  | Ayuda a mantener el #[strong balance hídrico del suelo.]
+                  | Ayuda a mantener el balance hídrico del suelo.
 
                 li 
                   .lista-ol--cuadro__vineta
                     span 5
-                  | Mantiene el # [strong ciclo de los nutrientes,] las raíces de los árboles alcanzan profundidades mayores que las de los pastos y logran #[strong absorber nutrientes] que, luego, retornan a la superficie cuando cae su follaje, ramas y frutos.
+                  | Mantiene el ciclo de los nutrientes, las raíces de los árboles alcanzan profundidades mayores que las de los pastos y logran #[strong absorber nutrientes] que, luego, retornan a la superficie cuando cae su follaje, ramas y frutos.
                 
                 li 
                   .lista-ol--cuadro__vineta
                     span 6
-                  | #[strong Aportan materia orgánica al suelo] con las ramas, hojas y frutos que caen.
+                  | Aportan materia orgánica al suelo con las ramas, hojas y frutos que caen.
 
                 li 
                   .lista-ol--cuadro__vineta
                     span 7
-                  | Las leguminosas tienen la propiedad de #[strong fijar el nitrógeno en el suelo] para permitir conservar sus propiedades.
+                  | Las leguminosas tienen la propiedad de fijar el nitrógeno en el suelo para permitir conservar sus propiedades.
 
                 li 
                   .lista-ol--cuadro__vineta
                     span 8
-                  | Aumento en la #[strong diversidad de las especies] depredadoras que atacan las plagas.
+                  | Aumento en la diversidad de las especies depredadoras que atacan las plagas.
                 
                 li 
                   .lista-ol--cuadro__vineta
                     span 9
-                  | Actúa como barrera #[strong rompevientos], regulando la velocidad del aire y su efecto erosivo.
+                  | Actúa como barrera rompevientos, regulando la velocidad del aire y su efecto erosivo.
                 li 
                   .lista-ol--cuadro__vineta
                     span 10
-                  | #[strong Reducen la erosión] al disminuir la velocidad de la caída de la lluvia al suelo y disminuye la velocidad de la escorrentía del agua.
+                  | Reducen la erosión al disminuir la velocidad de la caída de la lluvia al suelo y disminuye la velocidad de la escorrentía del agua.
 
                 li 
                   .lista-ol--cuadro__vineta
                     span 11
-                  | Proporciona #[strong protección física al suelo,] lo que contribuye a crear sistemas productivos y más estables que los monocultivos.
+                  | Proporciona protección física al suelo, lo que contribuye a crear sistemas productivos y más estables que los monocultivos.
                 
                 li 
                   .lista-ol--cuadro__vineta
                     span 12
-                  | Los árboles forrajeros tienen un gran potencial natural como #[strong fuente de proteína para los animales] utilizados por el ser humano.
+                  | Los árboles forrajeros tienen un gran potencial natural como fuente de proteína para los animales utilizados por el ser humano.
         
           .col-lg-6
               figure
