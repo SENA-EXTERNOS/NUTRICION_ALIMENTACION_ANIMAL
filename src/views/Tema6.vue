@@ -38,17 +38,17 @@
             figure
                 img(src="@/assets/curso/temas/img2-tarj-conect-tema6.png", alt="alt").img-tarj2-tema6
             
-            h4.text-center Sistema agrosilvicultural
+            h4.text-center Sistema agrosilvopastoril
             
-            p.text-center combina árboles con cultivos agrícolas en el mismo lote.
+            p.text-center combina árboles, cultivos agrícolas y pastos en el mismo lote.
 
         .col-lg-4.fondo-tarj3-conect-tema6
             figure
                 img(src="@/assets/curso/temas/img3-tarj-conect-tema6.png", alt="alt").imgenes3-tarj-conect-tema6
             br
-            h4.text-center Sistema agrosilvicultural
+            h4.text-center Sistema silvopastoril
             
-            p.text-center combina árboles con cultivos agrícolas en el mismo lote.
+            p.text-center combina árboles y pastos.
 
     br
     br
@@ -70,61 +70,61 @@
                 li 
                   .lista-ol--cuadro__vineta
                     span 1
-                  | Proporciona sombra a los animales y suministran un ambiente favorable para que se mejoren los rendimientos de producción.
+                  p Proporciona #[strong sombra a los animales] y suministran un #[strong ambiente favorable] para que se mejoren los rendimientos de producción.
 
                 li 
                   .lista-ol--cuadro__vineta
                     span 2
-                  | Algunas de las especies de árboles pueden ser empleados en la alimentación animal.
+                  p Algunas de las especies de árboles pueden ser empleados en la #[strong alimentación animal.]
 
                 li 
                   .lista-ol--cuadro__vineta
                     span 3
-                  | Aprovechamiento de las especies maderables.
+                  p Aprovechamiento de las #[strong especies maderables.]
 
                 li 
                   .lista-ol--cuadro__vineta
                     span 4
-                  | Ayuda a mantener el balance hídrico del suelo.
+                  p Ayuda a mantener el #[strong balance hídrico del suelo.]
 
                 li 
                   .lista-ol--cuadro__vineta
                     span 5
-                  | Mantiene el ciclo de los nutrientes, las raíces de los árboles alcanzan profundidades mayores que las de los pastos y logran #[strong absorber nutrientes] que, luego, retornan a la superficie cuando cae su follaje, ramas y frutos.
+                  p Mantiene el #[strong ciclo de los nutrientes,] las raíces de los árboles alcanzan profundidades mayores que las de los pastos y logran #[strong absorber nutrientes] que, luego, retornan a la superficie cuando cae su follaje, ramas y frutos.
                 
                 li 
                   .lista-ol--cuadro__vineta
                     span 6
-                  | Aportan materia orgánica al suelo con las ramas, hojas y frutos que caen.
+                  p #[strong Aportan materia orgánica al suelo] con las ramas, hojas y frutos que caen.
 
                 li 
                   .lista-ol--cuadro__vineta
                     span 7
-                  | Las leguminosas tienen la propiedad de fijar el nitrógeno en el suelo para permitir conservar sus propiedades.
+                  p Las leguminosas tienen la propiedad de #[strong fijar el nitrógeno en el suelo] para permitir conservar sus propiedades.
 
                 li 
                   .lista-ol--cuadro__vineta
                     span 8
-                  | Aumento en la diversidad de las especies depredadoras que atacan las plagas.
+                  p Aumento en la #[strong diversidad de las especies] depredadoras que atacan las plagas.
                 
                 li 
                   .lista-ol--cuadro__vineta
                     span 9
-                  | Actúa como barrera rompevientos, regulando la velocidad del aire y su efecto erosivo.
+                  p Actúa como barrera #[strong rompevientos,] regulando la velocidad del aire y su efecto erosivo.
                 li 
                   .lista-ol--cuadro__vineta
                     span 10
-                  | Reducen la erosión al disminuir la velocidad de la caída de la lluvia al suelo y disminuye la velocidad de la escorrentía del agua.
+                  p #[strong Reducen la erosión] al disminuir la velocidad de la caída de la lluvia al suelo y disminuye la velocidad de la escorrentía del agua.
 
                 li 
                   .lista-ol--cuadro__vineta
                     span 11
-                  | Proporciona protección física al suelo, lo que contribuye a crear sistemas productivos y más estables que los monocultivos.
+                  p Proporciona #[strong protección física al suelo,] lo que contribuye a crear sistemas productivos y más estables que los monocultivos.
                 
                 li 
                   .lista-ol--cuadro__vineta
                     span 12
-                  | Los árboles forrajeros tienen un gran potencial natural como fuente de proteína para los animales utilizados por el ser humano.
+                  p Los árboles forrajeros tienen un gran potencial natural como #[strong fuente de proteína para los animales] utilizados por el ser humano.
         
           .col-lg-6
               figure
@@ -132,6 +132,9 @@
     
     br
     br
+
+    separador
+
     .row.container.justify-content-around.align-items-center  
 
         .texto-final-tema6.p-4

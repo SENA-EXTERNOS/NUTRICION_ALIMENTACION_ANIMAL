@@ -47,9 +47,21 @@
 
             p(numero="11" titulo="Estómago de los poligástricos") Reciben este nombre debido a que poseen cuatro compartimentos: rumen, redecilla, omaso y abomaso. En los rumiantes su desarrollo total se alcanza al año y medio de vida.
 
-            p(numero="12" titulo="Intestinos") Tubo largo compuesto por tres porciones: ciego, colon y recto, va desde el estómago hasta el ano y se dividen en dos: Intestino delgado: en esta porción fluyen los ácidos biliares y pancreáticos encargados de la absorción de las grasas y de productos asimilables de la digestión. Intestino grueso: parte ancha encargada de recibir los productos de desecho, absorbe el agua y deja circular las heces.
+            p(numero="12" titulo="Intestinos") Tubo largo compuesto por tres porciones: ciego, colon y recto, va desde el estómago hasta el ano y se dividen en dos: 
+              br
+              br
+              span.bloque-texto-intestinos-tema2
+                | #[strong Intestino delgado:]  en esta porción fluyen los ácidos biliares y pancreáticos encargados de la absorción de las grasas y de productos asimilables de la digestión. 
+                br
+                | #[strong Intestino grueso:] parte ancha encargada de recibir los productos de desecho, absorbe el agua y deja circular las heces.
 
-            p(numero="13" titulo="Órganos anexos") en los órganos anexos del tubo digestivo encontramos dos: hígado y páncreas, los cuales contribuyen a la digestión de los animales mediante secreciones. El hígado, glándula con mayor volumen, es el más importante, cumple funciones como secretar bilis; fijar aminoácidos; almacenar glucosa; formar urea; evitar compuestos de los aminoácidos  en la sangre; descomponer, de forma parcial, las grasas; almacenar las vitaminas; realizar el proceso de detoxificación; contribuir a las células del sistema inmune; y metabolizar el hierro. Mientras que el páncreas es una glándula situada en el abdomen y su función es verter un líquido incoloro, inodoro y viscoso en el intestino delgado. Las secreciones que produce este órgano son denominadas enzimas necesarias para la digestión de nutrientes de mayor complejidad.
+            p(numero="13" titulo="Órganos anexos") en los órganos anexos del tubo digestivo encontramos dos: hígado y páncreas, los cuales contribuyen a la digestión de los animales mediante secreciones. El hígado, glándula con mayor volumen, es el más importante, cumple funciones como secretar bilis; fijar aminoácidos; almacenar glucosa; formar urea; evitar compuestos de los aminoácidos  en la sangre; descomponer, de forma parcial, las grasas; almacenar las vitaminas; realizar el proceso de detoxificación; contribuir a las células del sistema inmune; y metabolizar el hierro.
+              br
+              br
+              | Mientras que el páncreas es una glándula situada en el abdomen y su función es verter un líquido incoloro, inodoro y viscoso en el intestino delgado. 
+              br
+              br
+              |Las secreciones que produce este órgano son denominadas enzimas necesarias para la digestión de nutrientes de mayor complejidad.
     
       p.texto-inf-pasos-vert-tema2.tarjeta.p-3 Los animales rumiantes se caracterizan por tener un estómago con cuatro compartimentos, los cuales realizan una función vital y diferente en el proceso de la digestión. Otra característica importante es que, a diferencia de los monogástricos, los terneros nace con el rumen poco desarrollado y solo hasta la segunda o tercera semana de edad inician el proceso rumia, convirtiéndose en rumiantes.
 
@@ -147,7 +159,15 @@
 
             p(numero="2" titulo="Degradación de celulosa") Uno de los componentes de los forrajes es la celulosa, la cual es parte de la pared celular de los vegetales. La flora microbiana presente en el rumen posee la capacidad de degradar este componente. los productos de la degradación se componen de:
 
-            p(numero="3" titulo="Ácidos grasos volátiles") llamados (acético, propiónico y butírico) una gran parte de estos ácidos se absorben en la pared del rumen y son denominados los productos de mayor importancia dentro del metabolismo de los rumiantes. El ácido acético es el encargado de la síntesis del material grasoso de la leche que se lleva a cabo en la ubre y almacena la grasa en el organismo. El ácido propiónico participa en la formación de la lactosa en la leche y, junto con el hígado, realiza procesos de producción de glucógeno. El ácido butírico hace parte de la formación de materia grasa de la leche. Por último, agregamos que la cantidad de los recursos anteriormente mencionados dependen de la calidad del alimento que se suministra al animal.
+            p(numero="3" titulo="Ácidos grasos volátiles") llamados (acético, propiónico y butírico) una gran parte de estos ácidos se absorben en la pared del rumen y son denominados los productos de mayor importancia dentro del metabolismo de los rumiantes. 
+              br
+              br
+              | El ácido acético es el encargado de la síntesis del material grasoso de la leche que se lleva a cabo en la ubre y almacena la grasa en el organismo. 
+              br
+              br
+              | El ácido propiónico participa en la formación de la lactosa en la leche y, junto con el hígado, realiza procesos de producción de glucógeno. El ácido butírico hace parte de la formación de materia grasa de la leche. 
+              br
+              | Por último, agregamos que la cantidad de los recursos anteriormente mencionados dependen de la calidad del alimento que se suministra al animal.
 
             p(numero="4" titulo="Gases") Tales como el metano, nitrógeno e hidrógeno. Una parte de estos son expulsados mediante el eructo y la otra atraviesa las paredes del rumen para, posteriormente, pasar a la sangre y ser eliminados por medio de los pulmones.
 
@@ -168,8 +188,6 @@
         h3 Aparato digestivo de los rumiantes
 
     
-
-        h4 Aparato digestivo de los rumiantes
         br
         p Por lo general, los rumiantes, debido a su forma de alimentación, hacen un proceso de digestión particular con el fin de lograr la absorción de los nutrientes provenientes de sus alimentos y, además, completar la digestión. En la gráfica se pueden ver los detalles de este proceso. 
 

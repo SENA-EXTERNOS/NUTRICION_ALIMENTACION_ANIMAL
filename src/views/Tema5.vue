@@ -27,10 +27,19 @@
       
       h4 Gramíneas
 
-      .titulo-sexto.color-acento-contenido.mb-3
-          h5 Figura 1.
-          span <em>Requerimientos nutricionales según la etapa de desarrollo</em>
+      br
+      br
+      p Son las plantas con mayor distribución en el mundo, por su abundancia son la principal fuente de alimento de los herbívoros, tienen una estructura vegetal uniforme, son monocotiledóneas y presentan las siguientes características:
+      
+      br
+      br
+      br
 
+
+      .titulo-sexto.color-acento-contenido.mb-3
+          h5 Figura 6.
+          span <em>Estructura general de las gramíneas</em>
+      
       ImagenInfografica.color-primario
           template(v-slot:imagen)
             figure
@@ -43,18 +52,17 @@
 
           .tarjeta.color-acento-botones.p-3(x="20%" y="20%" numero="2")
             //.h5.mb-2 titulo
-            p #[strongLas hojas:] se alternan en doble hilera, su nervadura es paralela, en la base envuelven el tallo mientras que en el extremo terminan en punta hacia afuera.
+            p #[strong Las hojas:] se alternan en doble hilera, su nervadura es paralela, en la base envuelven el tallo mientras que en el extremo terminan en punta hacia afuera.
               p Se componen de:
-              p - Lámina o limbo: plana, acintada y paralelinervia.
-              p - Base o vaina: abraza al tallo por el nudo abriéndose por sus bordes (vaina abierta) o soldándose  (vaina cerrada).
-              p - Lígula: pequeño apéndice membranoso o piloso formado por la epidermis interna de la vaina y que surge entre el limbo y el tallo.
+              p - #[strong Lámina o limbo:] plana, acintada y paralelinervia.
+              p - #[strong Base o vaina:] abraza al tallo por el nudo abriéndose por sus bordes (vaina abierta) o soldándose  (vaina cerrada).
+              p - #[strong Lígula:] pequeño apéndice membranoso o piloso formado por la epidermis interna de la vaina y que surge entre el limbo y el tallo.
 
 
           .tarjeta.color-acento-botones.p-3(x="18%" y="50%" numero="3")
             //.h5.mb-2 titulo
             p #[strong Tallo: ]es de forma cilíndrica y, en el caso de los pastos, es herbáceo.
             p - #[strong Tallos nudosos:] son los estolones desde donde inicia el crecimiento de las raíces.
-            p - #[strong Raíz fasciculada:]  sistema radicular poco profundo.
  
 
           .tarjeta.color-acento-botones.p-3(x="15%" y="80%" numero="4")
@@ -102,14 +110,12 @@
 
           .tarjeta.color-acento-botones.p-3(x="80%" y="83%" numero="2")
             //.h5.mb-2 titulo
-            p #[strongLas Sistema radicular:] profundo y con nódulos, fijan el nitrógeno atmosférico.
+            p #[strong Las Sistema radicular:] profundo y con nódulos, fijan el nitrógeno atmosférico.
 
 
           .tarjeta.color-acento-botones.p-3(x="62%" y="14%" numero="3")
             //.h5.mb-2 titulo
             p #[strong Hojas:]  anchas, ovaladas con alternancia de tres o más folículos.
-            p - #[strong Tallos nudosos:] son los estolones desde donde inicia el crecimiento de las raíces.
-            p - #[strong Raíz fasciculada:]  sistema radicular poco profundo.
  
 
           .tarjeta.color-acento-botones.p-3(x="40%" y="50%" numero="4")
@@ -198,7 +204,7 @@
                 img(src='@/assets/curso/temas/img1-carr-ciclos-pastor.png' alt='AvatarTop')
             h4.text-center Pastoreo continuo
             p Pastoreo continuo: el sistema más sencillo, usado en explotaciones extensivas. Allí los animales se encuentran en el mismo lote toda la época del año. Desde el punto de vista agroecológico, no se recomienda porque las plantas no cuentan con el tiempo necesario para recuperarse, el suelo se expone a erosión y aparición de arvenses, se dificultan labores de fertilización llevándolo a la alteración de sus propiedades.
-            
+           
           .tarjeta.fondo-tar-carr-tema5.p-4
             .row.justify-content-center.mb-3
               .col-8
@@ -221,7 +227,7 @@
                 img(src='@/assets/curso/temas/img4-carr-ciclos-pastor.png' alt='AvatarTop')
             h4.text-center Pastoreo en franjas
             p Para este sistema debemos usar cerca eléctrica. Esta modalidad es usada en ganadería de leche, nos permite controlar el suministro de agua y sal, la cosecha del pasto es uniforme, de igual manera, la recuperación de la pradera.
-            p.texto-invisible Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique voluptate quia necessitatibus explicabo dignissimos nesciunt voluptas quae
+            p.texto-invisible Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique voluptate quia necessitatibus explicabo dignissimos 
 
           .tarjeta.fondo-tar-carr-tema5.p-4
             .row.justify-content-center.mb-3
@@ -308,18 +314,6 @@
                 img(src='@/assets/curso/temas/silo-monton-tema5.png', alt='Texto que describa la imagen')
                 //figcaption Leyenda de la imagen
 
-        .py-3.py-md-4(titulo="Silo de montón")
-          .row
-
-            .col-md-5
-              //h4 Celebrate your failures 2
-              p.texto-izq-tabs-horizontales Se utiliza para granjas intensivas y los lugares donde hay estaciones, por lo general, es de concreto y donde se almacenan grandes cantidades de comida.
-            
-            .col-md-7.mb-5.mb-md-0
-              figure
-                img(src='@/assets/curso/temas/img-silo-cajon-tema5.png', alt='Texto que describa la imagen').imagenes-tabs-horizontales
-                //figcaption Leyenda de la imagen
-        
         .py-3.py-md-4(titulo="Silos de bolsa")
           .row
 

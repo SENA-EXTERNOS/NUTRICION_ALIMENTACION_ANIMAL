@@ -19,6 +19,9 @@
             figure
                 img(data-aos="fade-left")(src="@/assets/curso/temas/img1-tema4.png", alt="alt")
 
+    br
+    br
+    br
     
     .row.container.justify-content-around.align-items-center
 
