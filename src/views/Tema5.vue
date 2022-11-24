@@ -219,7 +219,7 @@
                 img(src='@/assets/curso/temas/img3-carr-ciclos-pastor.png' alt='AvatarTop')
             h4.text-center Pastoreo rotacional
             p El área total se divide en varios potreros y los animales se van moviendo de manera secuencial, controlando la ocupación durante periodos, asegurando la recuperación de la pradera. Es una modalidad homogénea que controla la pérdida de alimento y no se compacta el suelo por efectos de sobrepastoreo.
-            p.texto-invisible Lorem ipsum dolor sit amet consectetur, adipisicing elit. Lorem ipsum dolor sit 
+            p.texto-invisible Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
 
           .tarjeta.fondo-tar-carr-tema5.p-4
             .row.justify-content-center.mb-3
@@ -227,7 +227,7 @@
                 img(src='@/assets/curso/temas/img4-carr-ciclos-pastor.png' alt='AvatarTop')
             h4.text-center Pastoreo en franjas
             p Para este sistema debemos usar cerca eléctrica. Esta modalidad es usada en ganadería de leche, nos permite controlar el suministro de agua y sal, la cosecha del pasto es uniforme, de igual manera, la recuperación de la pradera.
-            p.texto-invisible Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique voluptate quia necessitatibus explicabo dignissimos voluptate quia necessitatibus
+            p.texto-invisible Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique voluptate quia necessitatibus explicabo dignissimos 
 
           .tarjeta.fondo-tar-carr-tema5.p-4
             .row.justify-content-center.mb-3
@@ -235,7 +235,7 @@
                 img(src='@/assets/curso/temas/img5-carr-ciclos-pastor.png' alt='AvatarTop')
             h4.text-center Confinamiento pastoreo cero
             p El animal se encuentra todo el tiempo estabulado, es un sistema intensivo, permite aumentar la carga animal, no hay pérdida por pisoteo y se aprovecha de mejor forma el forraje.
-            p.texto-invisible Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique voluptate quia necessitatibus explicabo dignissimos nesciunt voluptas quae 
+            p.texto-invisible Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique voluptate quia necessitatibus explicabo dignissimos nesciunt voluptas quae voluptate quia 
         p.texto-inf-ciclos-pastoreo El manejo de estos se hace dependiendo de la especie forrajera, condiciones del terreno, fertilidad, también el tipo y número de animales de la explotación. La frecuencia de pastoreo y de descanso de la pradera está estrechamente ligada con la velocidad de crecimiento y recuperación de los pastos, es importante conservarlos e implementar medidas sin causar afectaciones. Los principales sistemas de pastoreo son:
 
     br
