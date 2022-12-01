@@ -39,6 +39,11 @@
             .col-md-12.mb-8.mb-md-0
               p.texto-acordeon-tema1 Los encontramos de origen animal como vegetal.
 
+          
+          .row(titulo="Productos de procesos agricolas")
+            .col-md-12.mb-8.mb-md-0
+              p.texto-acordeon-tema1 son los residuos de la agroindustria, requieren de proceso para su debida conservación, su contenido de agua es alto.
+
 
           .row(titulo="Residuos de alimentos")
             .col-md-12.mb-8.mb-md-0

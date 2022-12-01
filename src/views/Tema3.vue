@@ -34,7 +34,7 @@
         .row.mapa-concep-tema3.p-4
           .col-lg-12
             figure
-                img(src="@/assets/curso/temas/mapa-concep-tema3.png", alt="alt")
+                img(src="@/assets/curso/temas/cuadro-comp-alimento-tema3.png", alt="alt")
     
     br
     br
@@ -70,7 +70,7 @@
       .row
         .col-lg-12
             figure
-                img(src="@/assets/curso/temas/img-valor-nutriitvo-tema3.png", alt="alt").mapa-valor-nutritivo-tema3
+                img(src="@/assets/curso/temas/cuadro2-valor-nutritivo-tema3.png", alt="alt").mapa-valor-nutritivo-tema3
 
       p Debemos ofrecer una dieta económica porque los costos de alimentación son altos. El objetivo es mantener las praderas en buen estado para suministrar raciones de excelente calidad durante todo el año, garantizando la vida productiva, de esta manera, podemos asegurar el estado sanitario de los animales sin producir alteraciones en sus ciclos que pueden causar la muerte u otras consecuencias. 
 
@@ -92,7 +92,7 @@
         .row
           .col-lg-12
               figure
-                  img(src="@/assets/curso/temas/img-aliment-bovinos.png", alt="alt").img-aliment-bovinos
+                  img(src="@/assets/curso/temas/cuadro-alim-bobina-tema3.png", alt="alt").img-aliment-bovinos
 
         p Los requerimientos nutricionales para bovinos dependen de lo que requiere diariamente el animal (mantenimiento, crecimiento, reproducción y lactancia), los nutrientes a suministrar deben equivaler a los requisitos diarios.
         p En el siguiente botón encontrarás una tabla detallada donde podrás ampliar la información en cuanto a requerimientos nutricionales de los bovinos según la etapa de desarrollo. 
@@ -117,7 +117,7 @@
         .row 
           .col-lg-12
             figure
-                img(data-aos="fade-left")(src="@/assets/curso/temas/tabla-req-nutricionales-tema3.png", alt="alt")
+                img(data-aos="fade-left")(src="@/assets/curso/temas/cuadro-req-nutri-bobinos-tema3.png", alt="alt")
           
           p La alimentación de los bovinos y los porcinos es diferente. Para los cerdos, se deben suministrar raciones con alto valor nutritivo, dado que, por su genética, su crecimiento es rápido y acelerado. Es importante el suministro de agua potable, ya que si la cantidad no es adecuada los rendimientos productivos disminuyen. 
           p A continuación, pueden verse los requerimientos nutritivos para los cerdos. En el siguiente Botón amplía la información. 
@@ -140,7 +140,7 @@
         .row 
           .col-lg-12
             figure
-                img(data-aos="fade-left")(src="@/assets/curso/temas/tabla1-requerimientos-porcinos-tema3.png", alt="alt").tabla1-requerimientos-porcinos-tema3
+                img(data-aos="fade-left")(src="@/assets/curso/temas/tabla-req-porcinos-tema3.png", alt="alt").tabla1-requerimientos-porcinos-tema3
           
         p Para la elaboración de los complementos nutricionales en la alimentación, necesarios para el manejo productivo de especies, se tienen algunas materias primas al alcance del productor que benefician el bienestar y la salud animal. Conocer sus características es fundamental a la hora de mejorar el rendimiento o el potencial animal. 
   

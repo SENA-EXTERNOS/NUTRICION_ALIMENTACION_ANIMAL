@@ -14,7 +14,7 @@
       .row 
         .col-lg-12
             figure
-                img(data-aos="fade-left")(src="@/assets/curso/temas/img1-tema1.png", alt="alt")  
+                img(data-aos="fade-left")(src="@/assets/curso/temas/img-ganad-agroec-tema1.png", alt="alt")  
     br
     br
     br
@@ -45,7 +45,7 @@
 
           .row(titulo="Uso combinado")
             .col-md-12.mb-8.mb-md-0
-              p.texto-acordeon-tema1 Proporciona y mantiene el equilibrio de la biodiversidad, evitando plagas y enfermedades.
+              p.texto-acordeon-tema1 Al implementar la siembra de árboles frutales, es decir, el uso combinado del suelo, estas plantas actúan como como controladoras de maleza, dan sombra y, a su vez, sirven como fuente de fructosa.
           
 
 

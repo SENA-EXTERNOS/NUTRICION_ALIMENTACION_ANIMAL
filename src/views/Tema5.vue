@@ -52,17 +52,19 @@
 
           .tarjeta.color-acento-botones.p-3(x="20%" y="20%" numero="2")
             //.h5.mb-2 titulo
+            p #[strong Tallo: ]es de forma cilíndrica y, en el caso de los pastos, es herbáceo.
+            p - #[strong Tallos nudosos:] son los estolones desde donde inicia el crecimiento de las raíces.
+
+
+          .tarjeta.color-acento-botones.p-3(x="18%" y="50%" numero="3")
+            //.h5.mb-2 titulo
+
             p #[strong Las hojas:] se alternan en doble hilera, su nervadura es paralela, en la base envuelven el tallo mientras que en el extremo terminan en punta hacia afuera.
               p Se componen de:
               p - #[strong Lámina o limbo:] plana, acintada y paralelinervia.
               p - #[strong Base o vaina:] abraza al tallo por el nudo abriéndose por sus bordes (vaina abierta) o soldándose  (vaina cerrada).
               p - #[strong Lígula:] pequeño apéndice membranoso o piloso formado por la epidermis interna de la vaina y que surge entre el limbo y el tallo.
 
-
-          .tarjeta.color-acento-botones.p-3(x="18%" y="50%" numero="3")
-            //.h5.mb-2 titulo
-            p #[strong Tallo: ]es de forma cilíndrica y, en el caso de los pastos, es herbáceo.
-            p - #[strong Tallos nudosos:] son los estolones desde donde inicia el crecimiento de las raíces.
  
 
           .tarjeta.color-acento-botones.p-3(x="15%" y="80%" numero="4")
@@ -89,11 +91,15 @@
         p.texto-inf-gram-clima-calido Adicionalmente, otro tipo de planta que se puede utilizar son las leguminosas. En Colombia, estas plantas pueden usarse para cultivarlas y también como complemento para la nutrición animal.
 
     br            
-    br            
     br
+    
 
     .row.container.justify-content-around.align-items-center
 
+        p Pertenecientes a las familias de las dicotiledóneas, poseen bacterias especializadas para fijar nitrógeno, transformándolo por medio del proceso de simbiosis, una parte de este se va a las hojas para almacenarse en forma de proteína y el restante se fija en el suelo por medio de los nódulos para ayudar con la fertilidad del suelo (Pérez, 2017)
+        br
+        br
+      
         .titulo-sexto.color-acento-contenido.mb-3
           h5 Figura 7.
           span <em>Crecimiento de las leguminosas</em> 
@@ -203,7 +209,7 @@
               .col-8
                 img(src='@/assets/curso/temas/img1-carr-ciclos-pastor.png' alt='AvatarTop')
             h4.text-center Pastoreo continuo
-            p Pastoreo continuo: el sistema más sencillo, usado en explotaciones extensivas. Allí los animales se encuentran en el mismo lote toda la época del año. Desde el punto de vista agroecológico, no se recomienda porque las plantas no cuentan con el tiempo necesario para recuperarse, el suelo se expone a erosión y aparición de arvenses, se dificultan labores de fertilización llevándolo a la alteración de sus propiedades.
+            p El sistema más sencillo, usado en explotaciones extensivas. Allí los animales se encuentran en el mismo lote toda la época del año. Desde el punto de vista agroecológico, no se recomienda porque las plantas no cuentan con el tiempo necesario para recuperarse, el suelo se expone a erosión y aparición de arvenses, se dificultan labores de fertilización llevándolo a la alteración de sus propiedades.
            
           .tarjeta.fondo-tar-carr-tema5.p-4
             .row.justify-content-center.mb-3
@@ -236,7 +242,8 @@
             h4.text-center Confinamiento pastoreo cero
             p El animal se encuentra todo el tiempo estabulado, es un sistema intensivo, permite aumentar la carga animal, no hay pérdida por pisoteo y se aprovecha de mejor forma el forraje.
             p.texto-invisible Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique voluptate quia necessitatibus explicabo dignissimos nesciunt voluptas quae voluptate quia 
-        p.texto-inf-ciclos-pastoreo El manejo de estos se hace dependiendo de la especie forrajera, condiciones del terreno, fertilidad, también el tipo y número de animales de la explotación. La frecuencia de pastoreo y de descanso de la pradera está estrechamente ligada con la velocidad de crecimiento y recuperación de los pastos, es importante conservarlos e implementar medidas sin causar afectaciones. Los principales sistemas de pastoreo son:
+        p.texto-inf-ciclos-pastoreo Como hemos visto los ciclos o sistemas de pastoreo tienen como objetivo aprovechar al máximo los alimentos disponibles y aumentar la producción del animal; esto se logra con una conservación de los forrajes para conservar y preservar por más tiempo la disponibilidad de recursos alimenticios como veremos en el siguiente video.
+
 
     br
     br
@@ -249,7 +256,7 @@
           h2 5.2 Conservación forrajes
 
 
-      p El manejo de estos se hace dependiendo de la especie forrajera, condiciones del terreno, fertilidad, también el tipo y número de animales de la explotación. La frecuencia de pastoreo y de descanso de la pradera está estrechamente ligada con la velocidad de crecimiento y recuperación de los pastos, es importante conservarlos e implementar medidas sin causar afectaciones. Los principales sistemas de pastoreo son:
+      //p El manejo de estos se hace dependiendo de la especie forrajera, condiciones del terreno, fertilidad, también el tipo y número de animales de la explotación. La frecuencia de pastoreo y de descanso de la pradera está estrechamente ligada con la velocidad de crecimiento y recuperación de los pastos, es importante conservarlos e implementar medidas sin causar afectaciones. Los principales sistemas de pastoreo son:
       
       h4 Conservación de forrajes
 
@@ -339,7 +346,7 @@ export default {
     // variables de vue
     datosSlyder: [
       {
-        titulo: 'Raíces forrajeras',
+        titulo: 'Árboles forrajeros',
         texto:
           'Raíces forrajeras: son una alternativa para alimentar los animales. Especialmente en épocas de verano cuando el forraje de las praderas baja considerablemente, se deben aprovechar al máximo los productos fibrosos disponibles en la finca.',
         imagen: require('@/assets/curso/temas/img-raices-forrajeras.png'),

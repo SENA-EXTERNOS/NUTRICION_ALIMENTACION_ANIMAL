@@ -37,17 +37,15 @@
 
             p(numero="6" titulo="Faringe") Es un conducto compuesto por paredes membranosas que se encargan de unir la boca con el esófago, también evita que los alimentos se desvíen de curso normal hacia la tráquea o nariz.
 
-            p(numero="7" titulo="Aporta nitrógeno al suelo") La introducción de árboles aporta nitrógeno al suelo. Así, aumentamos la cobertura de materia orgánica y ayudamos a que el animal pierda temperatura y regule el estrés producido por el calor.
+            p(numero="7" titulo="Esófago") Es un tubo muscular que cubre una membrana llamada epitelio. Es el encargado de transportar los alimentos desde la faringe hasta el estómago.
 
-            p(numero="8" titulo="Esófago") Es un tubo muscular que cubre una membrana llamada epitelio. Es el encargado de transportar los alimentos desde la faringe hasta el estómago.
+            p(numero="8" titulo="Estómago") Su localización está detrás del diafragma y su conformación depende de la especie, ya que estas se clasifican monogástricas y poligástricas. 
 
-            p(numero="9" titulo="Estómago") Su localización está detrás del diafragma y su conformación depende de la especie, ya que estas se clasifican monogástricas y poligástricas. 
+            p(numero="9" titulo="Estómago de los monogástricos") Lo componen dos esfínteres: el cardias y el píloro, que permiten la comunicación con el esófago y el intestino delgado respectivamente. Está dividido en tres regiones: la región cardial es la encargada de elaborar el moco que sirve como protección del estómago; la región fúndica es el lugar donde se producen la pepsina y la quimotripsina, enzimas facultadas para la síntesis de las proteínas; la región pilórica es la que segrega el ácido clorhídrico, esencial en la degradación de los alimentos.
 
-            p(numero="10" titulo="Estómago de los monogástricos") Lo componen dos esfínteres: el cardias y el píloro, que permiten la comunicación con el esófago y el intestino delgado respectivamente. Está dividido en tres regiones: la región cardial es la encargada de elaborar el moco que sirve como protección del estómago; la región fúndica es el lugar donde se producen la pepsina y la quimotripsina, enzimas facultadas para la síntesis de las proteínas; la región pilórica es la que segrega el ácido clorhídrico, esencial en la degradación de los alimentos.
+            p(numero="10" titulo="Estómago de los poligástricos") Reciben este nombre debido a que poseen cuatro compartimentos: rumen, redecilla, omaso y abomaso. En los rumiantes su desarrollo total se alcanza al año y medio de vida.
 
-            p(numero="11" titulo="Estómago de los poligástricos") Reciben este nombre debido a que poseen cuatro compartimentos: rumen, redecilla, omaso y abomaso. En los rumiantes su desarrollo total se alcanza al año y medio de vida.
-
-            p(numero="12" titulo="Intestinos") Tubo largo compuesto por tres porciones: ciego, colon y recto, va desde el estómago hasta el ano y se dividen en dos: 
+            p(numero="11" titulo="Intestinos") Tubo largo compuesto por tres porciones: ciego, colon y recto, va desde el estómago hasta el ano y se dividen en dos: 
               br
               br
               span.bloque-texto-intestinos-tema2
@@ -55,7 +53,7 @@
                 br
                 | #[strong Intestino grueso:] parte ancha encargada de recibir los productos de desecho, absorbe el agua y deja circular las heces.
 
-            p(numero="13" titulo="Órganos anexos") en los órganos anexos del tubo digestivo encontramos dos: hígado y páncreas, los cuales contribuyen a la digestión de los animales mediante secreciones. El hígado, glándula con mayor volumen, es el más importante, cumple funciones como secretar bilis; fijar aminoácidos; almacenar glucosa; formar urea; evitar compuestos de los aminoácidos  en la sangre; descomponer, de forma parcial, las grasas; almacenar las vitaminas; realizar el proceso de detoxificación; contribuir a las células del sistema inmune; y metabolizar el hierro.
+            p(numero="12" titulo="Órganos anexos") en los órganos anexos del tubo digestivo encontramos dos: hígado y páncreas, los cuales contribuyen a la digestión de los animales mediante secreciones. El hígado, glándula con mayor volumen, es el más importante, cumple funciones como secretar bilis; fijar aminoácidos; almacenar glucosa; formar urea; evitar compuestos de los aminoácidos  en la sangre; descomponer, de forma parcial, las grasas; almacenar las vitaminas; realizar el proceso de detoxificación; contribuir a las células del sistema inmune; y metabolizar el hierro.
               br
               br
               | Mientras que el páncreas es una glándula situada en el abdomen y su función es verter un líquido incoloro, inodoro y viscoso en el intestino delgado. 
@@ -201,7 +199,7 @@
           .col-lg-12
         
             figure
-                img(data-aos="fade-left")(src="@/assets/curso/temas/img-apar-diges-rumiantes-tema2.png", alt="alt").img-apar-diges-rumiantes-tema2
+                img(data-aos="fade-left")(src="@/assets/curso/temas/img-apr-dig-rumiantes.png", alt="alt").img-apar-diges-rumiantes-tema2
         
         p.texto-color-apar-diges-rumiantes-tema2.p-4 A diferencia de estas especies poligástricas, encontramos animales que no tienen la capacidad de degradar fácilmente el tejido vegetal como son las aves y los porcinos; su tracto digestivo funciona de forma similar al del humano (Moran, 2018), por lo que es necesario suministrar alimentos de buena calidad y dietas balanceadas para asegurar una alta producción. 
 
@@ -211,7 +209,14 @@
 
     .row.container.justify-content-around.align-items-center
 
-        h4 Aparato digestivo de los cerdos
+         
+        #sistema-digestivo-de-los-monogastricos
+          h3.titulo-apt-dig-mono Sistema digestivo de los monogástricos
+        
+        br
+        br
+        
+        //h4 Aparato digestivo de los cerdos
 
         .titulo-sexto.color-acento-contenido.titulo-figura-tema2.mb-3
           h5 Figura 4.

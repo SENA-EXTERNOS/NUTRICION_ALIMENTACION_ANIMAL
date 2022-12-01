@@ -45,20 +45,24 @@ export default {
             numero: '2.1',
             titulo: 'Sistema digestivo de los rumiantes',
             hash: 'sistema-digestivo-de-los-rumiantes',
-            subMenu: [
-              {
-                icono: 'far fa-file-alt',
-                numero: '2.1.1',
-                titulo: 'Las bacterias del rumen',
-                hash: 'las-bacterias-del-rumen',
-              },
-              {
-                icono: 'far fa-file-alt',
-                numero: '2.1.2',
-                titulo: 'Aparato digestivo de los rumiantes',
-                hash: 'aparato-digestivo-de-los-rumiantes',
-              },
-            ],
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.1.1',
+            titulo: 'Las bacterias del rumen',
+            hash: 'las-bacterias-del-rumen',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.1.2',
+            titulo: 'Aparato digestivo de los rumiantes',
+            hash: 'aparato-digestivo-de-los-rumiantes',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.2',
+            titulo: 'Sistema digestivo de los monogástricos',
+            hash: 'sistema-digestivo-de-los-monogastricos',
           },
         ],
       },
