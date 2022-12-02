@@ -92,9 +92,12 @@
 
     br            
     br
+    br
     
 
     .row.container.justify-content-around.align-items-center
+
+        h4 Leguminosas
 
         p Pertenecientes a las familias de las dicotiledóneas, poseen bacterias especializadas para fijar nitrógeno, transformándolo por medio del proceso de simbiosis, una parte de este se va a las hojas para almacenarse en forma de proteína y el restante se fija en el suelo por medio de los nódulos para ayudar con la fertilidad del suelo (Pérez, 2017)
         br
@@ -150,7 +153,7 @@
           
           .col-lg-8
             figure
-              img(src='@/assets/curso/temas/leguminosas-forrajeras-tema5.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/legum-forrajeras-tema5.png', alt='Texto que describa la imagen')
         
         p.texto-inf-leg-forrajeras Las leguminosas pueden crecer en forma de arbusto como lo vimos anteriormente; así mismo, su crecimiento se desarrolla vegetativamente en forma de pasto, como lo veremos en la siguiente imagen. Conocer la diferencia morfológica de especies forrajeras es importante para el manejo de pastizales en alimentación animal.
 

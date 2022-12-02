@@ -70,7 +70,7 @@
       .row
         .col-lg-12
             figure
-                img(src="@/assets/curso/temas/cuadro2-valor-nutritivo-tema3.png", alt="alt").mapa-valor-nutritivo-tema3
+                img(src="@/assets/curso/temas/img-valor-nutritivo.png", alt="alt").mapa-valor-nutritivo-tema3
 
       p Debemos ofrecer una dieta económica porque los costos de alimentación son altos. El objetivo es mantener las praderas en buen estado para suministrar raciones de excelente calidad durante todo el año, garantizando la vida productiva, de esta manera, podemos asegurar el estado sanitario de los animales sin producir alteraciones en sus ciclos que pueden causar la muerte u otras consecuencias. 
 

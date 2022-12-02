@@ -3,9 +3,9 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    .titulo-sexto.color-titulo-sexto
+    //.titulo-sexto.color-titulo-sexto
       h4.texto-titulo-sintesis Manejo de la producción agroecológica.
-      //p.texto-titulo-sintesis Síntesis: CF7 Nutrición y alimentación animal
+      p.texto-titulo-sintesis Síntesis: CF7 Nutrición y alimentación animal
 
 
     p El programa de alimentación agroecológica, actualmente, nos brinda una amplia variedad de técnicas para ser económicamente competitivos sin bajar los estándares de producción y sin contribuir con el deterioro del entorno. En la crianza de animales es necesario saber la anatomía y fisiología de los aparatos digestivos de las distintas especies de importancia zootécnica, conocer las diferencias entre un monogástrico y un poligástrico para suministrar las dietas más adecuadas para cada especie. Identificar las diferencias entre la alimentación y la nutrición permite hacer énfasis en la generación de dietas con altos valores nutricionales que correspondan con la etapa de desarrollo del animal y puedan aportar en su crecimiento y, por ende, en la producción. Conocer el valor nutritivo de los alimentos incluye saber su composición y la función y aporte de los carbohidratos, grasas, proteínas, vitaminas y minerales esenciales para suplir los requerimientos vitales diarios.
