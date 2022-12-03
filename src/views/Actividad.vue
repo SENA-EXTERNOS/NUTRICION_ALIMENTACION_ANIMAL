@@ -17,12 +17,12 @@
             img(src="@/assets/curso/temas/img-actividad.png", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo.color-acento-contenido
-          h2 Completar espacios
+          h2 Opción múltiple
         p.mb-4 A continuación, se encontrará una actividad didáctica que permitirá afianzar los conocimientos sobre el manejo de especies pecuarias conforme con criterios técnicos y normativa de producción agropecuaria ecológica, la cual debe complementar la nutrición y alimentación animal. Vamos a desarrollarla. 
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
-              p.fw-bold.mb-0 Completar espacios
+              p.fw-bold.mb-0 Opción múltiple
             .col-auto
               a.boton.boton--b(:href="obtenerLink('/actividades/Actividad_didáctica-CF7- T_733105_Nutricion y alimentacion animal - Storyline output/story.html')" target="_blank")
                 span Realizar
