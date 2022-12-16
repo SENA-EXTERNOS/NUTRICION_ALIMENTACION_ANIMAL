@@ -44,7 +44,7 @@
             
         #tipos-de-nutrientes
         .titulo-segundo.color-acento-contenido
-          h2 3.1. Tipos de nutrientes
+          h2 Tipos de nutrientes
         
         p Cuando nos referimos a nutrientes, decimos que son los aportes químicos indispensables para sobrevivir, crecer y reproducirse. 
         p En el siguiente gráfico, explicamos los tipos de nutrientes.
@@ -85,7 +85,7 @@
         
         #nutricion-y-alimentacion-de-los-bovinos
         .titulo-segundo.color-acento-contenido
-          h2 3.2. Nutrición y alimentación de los bovinos
+          h2 Nutrición y alimentación de los bovinos
         
         h4 Nutrición y alimentación de bovinos
 
@@ -108,7 +108,7 @@
 
         #requerimientos-nutricionales-de-los-bovinos
         .titulo-segundo.color-acento-contenido
-          h2 3.3. Requerimientos nutricionales para los bovinos
+          h2 Requerimientos nutricionales para los bovinos
         
         .titulo-sexto.color-acento-contenido.mb-3
           h5 Tabla 1.

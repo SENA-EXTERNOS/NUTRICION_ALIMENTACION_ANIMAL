@@ -46,18 +46,18 @@ export default {
             titulo: 'Sistema digestivo de los rumiantes',
             hash: 'sistema-digestivo-de-los-rumiantes',
           },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.1.1',
-            titulo: 'Las bacterias del rumen',
-            hash: 'las-bacterias-del-rumen',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.1.2',
-            titulo: 'Aparato digestivo de los rumiantes',
-            hash: 'aparato-digestivo-de-los-rumiantes',
-          },
+          //{
+          //  icono: 'far fa-file-alt',
+          //  numero: '2.1.1',
+          //  titulo: 'Las bacterias del rumen',
+          //  hash: 'las-bacterias-del-rumen',
+          //},
+          //{
+          //  icono: 'far fa-file-alt',
+          //  numero: '2.1.2',
+          //  titulo: 'Aparato digestivo de los rumiantes',
+          //  hash: 'aparato-digestivo-de-los-rumiantes',
+          //},
           {
             icono: 'far fa-file-alt',
             numero: '2.2',
@@ -72,32 +72,32 @@ export default {
         numero: '3',
         titulo: 'Nutrición y alimentación',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.1',
-            titulo: 'Tipos de nutrientes',
-            hash: 'tipos-de-nutrientes',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.2',
-            titulo: 'Nutrición y alimentación de los bovinos',
-            hash: 'nutricion-y-alimentacion-de-los-bovinos',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.3',
-            titulo: 'Requerimientos nutricionales de los bovinos',
-            hash: 'requerimientos-nutricionales-de-los-bovinos',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.4',
-            titulo: 'Requerimientos nutricionales de los porcinos',
-            hash: 'requerimientos-nutricionales-de-los-porcinos',
-          },
-        ],
+        //subMenu: [
+        //  {
+        //    icono: 'far fa-file-alt',
+        //    numero: '3.1',
+        //    titulo: 'Tipos de nutrientes',
+        //    hash: 'tipos-de-nutrientes',
+        //  },
+        //  {
+        //    icono: 'far fa-file-alt',
+        //    numero: '3.2',
+        //    titulo: 'Nutrición y alimentación de los bovinos',
+        //    hash: 'nutricion-y-alimentacion-de-los-bovinos',
+        //  },
+        //  {
+        //    icono: 'far fa-file-alt',
+        //    numero: '3.3',
+        //    titulo: 'Requerimientos nutricionales de los bovinos',
+        //    hash: 'requerimientos-nutricionales-de-los-bovinos',
+        //  },
+        //  {
+        //    icono: 'far fa-file-alt',
+        //    numero: '3.4',
+        //    titulo: 'Requerimientos nutricionales de los porcinos',
+        //    hash: 'requerimientos-nutricionales-de-los-porcinos',
+        //  },
+        //],
       },
       {
         nombreRuta: 'tema4',
