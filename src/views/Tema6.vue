@@ -12,12 +12,20 @@
   
       .row 
         .bloque-color-tar1-tema6
-        .col-lg-7
-          p.texto1-tema6  Debido a la deforestación y a la degradación de los suelos por el aumento del suelo con fines agropecuarios, aumenta la pérdida de la biodiversidad de la flora y la fauna, así como la disminución de los recursos renovables. Como respuesta a esta tendencia negativa para el medio ambiente, se han venido desarrollando estrategias en las cuales la producción animal logra integrar lo agrícola con lo forestal, con el objetivo de reducir la destrucción de los recursos naturales. Los componentes de los sistemas agroforestales son: árboles, cultivos, praderas y animales. En la siguiente imagen explicaremos los diferentes tipos de sistemas agroforestales de importancia para la producción animal y conservación.
+        .col-lg-8
+          .texto1-tema6  
+            p Debido a la deforestación y a la degradación de los terrenos, por el aumento del suelo con fines agropecuarios, ha venido creciendo la pérdida de la biodiversidad de la flora y la fauna, así como la disminución de los recursos renovables. 
+
+            p Como respuesta a esta tendencia negativa para el medio ambiente, se han venido desarrollando estrategias, con las cuales la producción animal logra integrar lo agrícola con lo forestal, con el objetivo de reducir la destrucción de los recursos naturales. Los componentes de los sistemas agroforestales son: árboles, cultivos, praderas y animales. 
+
+
+
+            p A continuación, se explican los diferentes tipos de sistemas agroforestales, importantes, para la producción animal y la conservación ambiental:
+
   
-        .col-lg-5
+        .col-lg-4
             figure
-                img(data-aos="fade-left")(src="@/assets/curso/temas/img1-tema6.png", alt="alt").img1-tema6
+                img(data-aos="fade-left")(src="@/assets/curso/temas/img1-tema6.png", alt="alt")
 
     br
     br
@@ -56,7 +64,7 @@
 
     .row.container.justify-content-around.align-items-center
 
-        p Algunos beneficios del silvopastoreo en el bienestar y la alimentación de los animales en la producción agroecológica se listan a continuación.
+        p Algunos beneficios del silvopastoreo en el bienestar y la alimentación de los animales en la producción agroecológica, son:
         br
         br
         br
@@ -130,17 +138,8 @@
               figure
                 img(src="@/assets/curso/temas/img-silvopastoreo-tema6.png", alt="alt").img-silvopastoreo-tema6
     
-    br
-    br
-
-    separador
-
-    .row.container.justify-content-around.align-items-center  
-
-        .texto-final-tema6.p-4
-          p En este componente formativo abordamos temas fundamentales para la producción agroecológica: programa de alimentación agroecológica, principios de anatomía y fisiología digestiva, sistema digestivo de rumiantes y monogástricos, nutrición y alimentación, pastos y forrajes, ciclos de pastoreo, conservación de forrajes y sistemas agroforestales.
-            br
-            | Para concluir es relevante abordar detalladamente cada una de estas temáticas, aprovechar al máximo los alimentos que nos da la naturaleza, cuidar el medio ambiente, ya que el adecuado manejo de los recursos no solo representa un ahorro importante, sino que es uno de los pilares de la producción agroecológica. De esta manera, damos fin a la unidad e invitamos a los aprendices a leer detenidamente el capítulo y realizar las actividades incluidas para evaluar los conocimientos adquiridos.
+    .pf.p-4.mt-5
+      p.mb-0 Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros. 
      
 
 </template>

@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Nutrición y alimentación animal',
     descripcionCurso:
-      'El objetivo es aprender la diferencia entre: alimentación y nutrición, monogástricos y poligástricos. Además, se aborda el tipo de alimento que debemos suministrar a cada especie y los procesos bioquímicos que suceden para absorber los nutrientes necesarios para el mantenimiento y producción. Asimismo, se estudia la producción de forrajes, ya que, en épocas de abundancia, es necesario conservar con las diferentes técnicas existentes para suministrar dietas adecuadas en tiempo de sequía.',
+      'Este componente formativo le ayudará a comprender la diferencia entre: alimentación y nutrición, monogástricos y poligástricos. Además, podrá apropiarse de aspectos claves sobre tipos de alimentos para cada especie y los procesos bioquímicos que suceden para absorber los nutrientes necesarios para el mantenimiento y producción animal. Asimismo, se abordará todo lo relacionado con producción de forrajes y técnicas de conservación y suministro dietario.',
     imagenBannerPrincipal: require('@/assets/curso/portada/imagen-banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -29,7 +29,7 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Programa de Alimentación Agroecológica',
+        titulo: 'Programa de alimentación agroecológica',
         desarrolloContenidos: true,
       },
 
@@ -37,67 +37,15 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Principios de anatomía y fisiología digestiva',
+        titulo: 'Principios de anatomía y fisiología digestiva animal',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.1',
-            titulo: 'Sistema digestivo de los rumiantes',
-            hash: 'sistema-digestivo-de-los-rumiantes',
-          },
-          //{
-          //  icono: 'far fa-file-alt',
-          //  numero: '2.1.1',
-          //  titulo: 'Las bacterias del rumen',
-          //  hash: 'las-bacterias-del-rumen',
-          //},
-          //{
-          //  icono: 'far fa-file-alt',
-          //  numero: '2.1.2',
-          //  titulo: 'Aparato digestivo de los rumiantes',
-          //  hash: 'aparato-digestivo-de-los-rumiantes',
-          //},
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.2',
-            titulo: 'Sistema digestivo de los monogástricos',
-            hash: 'sistema-digestivo-de-los-monogastricos',
-          },
-        ],
       },
       {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Nutrición y alimentación',
+        titulo: 'Nutrición y alimentación animal',
         desarrolloContenidos: true,
-        //subMenu: [
-        //  {
-        //    icono: 'far fa-file-alt',
-        //    numero: '3.1',
-        //    titulo: 'Tipos de nutrientes',
-        //    hash: 'tipos-de-nutrientes',
-        //  },
-        //  {
-        //    icono: 'far fa-file-alt',
-        //    numero: '3.2',
-        //    titulo: 'Nutrición y alimentación de los bovinos',
-        //    hash: 'nutricion-y-alimentacion-de-los-bovinos',
-        //  },
-        //  {
-        //    icono: 'far fa-file-alt',
-        //    numero: '3.3',
-        //    titulo: 'Requerimientos nutricionales de los bovinos',
-        //    hash: 'requerimientos-nutricionales-de-los-bovinos',
-        //  },
-        //  {
-        //    icono: 'far fa-file-alt',
-        //    numero: '3.4',
-        //    titulo: 'Requerimientos nutricionales de los porcinos',
-        //    hash: 'requerimientos-nutricionales-de-los-porcinos',
-        //  },
-        //],
       },
       {
         nombreRuta: 'tema4',
@@ -112,20 +60,6 @@ export default {
         numero: '5',
         titulo: ' Pastos y forrajes',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '5.1',
-            titulo: 'Ciclos de pastoreo',
-            hash: 'tipos-de-nutrientes',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '5.2',
-            titulo: 'Conservación de forrajes ',
-            hash: 'conservacion-de-forrajes ',
-          },
-        ],
       },
       {
         nombreRuta: 'tema6',
@@ -177,31 +111,29 @@ export default {
   },
   complementario: [
     {
-      tema: 'Alimentación y agroecología',
+      tema: 'Programa de alimentación agroecológica',
       referencia:
-        'Canal Bodega orgánica (24 de junio 2022) importancia de consumir agroecológico [archivo de video]',
+        'Canal Bodega orgánica. (2022). <i>Importancia de consumir agroecológico</i>.',
       tipo: 'video',
       link: 'https://youtu.be/GeAyZLlztVk',
     },
     {
-      tema: 'Manejo y producción de pastos y forrajes',
+      tema: 'Pastos y forrajes',
       referencia:
-        'Canal Tv. Agro por Juan Gonzalo Ángel (7 de septiembre 2017) Manejo y producción de pastos y forrajes [archivo de video]',
+        'Canal Tv. Agro por Juan Gonzalo Ángel. (2017).  <i>Manejo y producción de pastos y forrajes</i>.',
       tipo: 'video',
       link: 'https://youtu.be/1LE6brB8W_I',
     },
     {
-      tema:
-        'Capítulo 10. Manual práctico ganadero - especies forrajeras: gramíneas y leguminosas',
-      referencia:
-        'Canal Fedegan (7 de octubre 2021) Manual práctico ganadero [archivo de video]',
+      tema: 'Pastos y forrajes',
+      referencia: 'Canal Fedegan. (2021). <i>Manual práctico ganadero</i>.',
       tipo: 'video',
       link: 'https://youtu.be/8JiYswXGLxM',
     },
     {
-      tema: 'Manejo de praderas y sistemas de pastoreo',
+      tema: 'Sistemas agroforestales',
       referencia:
-        'Canal Ganadería colombiana sostenible (12 de Julio 2018) Ganadería sostenible [archivo de video]',
+        'Canal Ganadería colombiana sostenible. (2018). <i>Ganadería sostenible</i>.',
       tipo: 'video',
       link: 'https://youtu.be/jmeXgBzCoGI',
     },
@@ -269,25 +201,25 @@ export default {
     },
     {
       referencia:
-        'Martínez, F. (2020, febrero 10). Proceso de Ensilaje. <em>Infopastosyforrajes.com.</em> Obtenido de',
+        'Martínez, F. (2020). <i>Proceso de Ensilaje</i>. Infopastosyforrajes.com.',
       link:
         'https://infopastosyforrajes.com/metodos-de-conservacion/proceso-de-ensilaje/',
     },
     {
       referencia:
-        'Martínez, F. (2020, febrero 6). Proceso de henificación.  <em>Infopastosyforrajes.com.</em> Obtenido de',
+        'Martínez, F. (2020). <i>Proceso de henificación</i>. Infopastosyforrajes.com.',
       link:
         'https://infopastosyforrajes.com/metodos-de-conservacion/proceso-de-henificacion/',
     },
     {
       referencia:
-        'Moran, E. (2018, octubre 24). Anatomofisiología del tracto digestivo de aves y cerdos y la influencia de los alimentos. <em>LPN Congress.</em> Obtenido de ',
+        'Moran, E. (2018). <i>Anatomofisiología del tracto digestivo de aves y cerdos y la influencia de los alimentos</i>. LPN Congress.',
       link:
         'https://lpncongress.com/wp-content/uploads/2018/10/anatomofisiologia-del-tracto-digestivo-de-aves-y-cerdos-y-la-influencia-de-los-alimentos-edwin-moran.pdf',
     },
     {
       referencia:
-        'Pérez, E. (2017). <em>Manual de manejo de sistemas intensivos sostenibles en ganadería de engorde.</em> Instituto Nacional de Innovación y Transferencia en Tecnología Agropecuaria. Obtenido de',
+        'Pérez, E. (2017). <i>Manual de manejo de sistemas intensivos sostenibles en ganadería de engorde</i>. Instituto Nacional de Innovación y Transferencia en Tecnología Agropecuaria.',
       link: 'http://www.mag.go.cr/bibliotecavirtual/L02-10923.pdf',
     },
   ],

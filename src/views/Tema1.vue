@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Programa de Alimentación Agroecológica
+      h1 Programa de alimentación agroecológica
     
     .row.container.justify-content-around.align-items-center
       p El programa de alimentación agroecológica consiste en producir alimentos de buena calidad de forma natural sin que tengamos que incluir dentro de los procesos el uso de químicos, con el fin de no causar daños al entorno.
@@ -66,11 +66,7 @@
             .col-md-12.mb-8.mb-md-0
               p.texto-acordeon-tema1 La idea es formar un policultivo mezclando varias especies de plantaciones.
         
-        p A continuación encontraremos elementos importantes acerca de la anatomía y la fisiología digestiva de los animales. 
-
-
-
-      
+              
 </template>
 
 <script>

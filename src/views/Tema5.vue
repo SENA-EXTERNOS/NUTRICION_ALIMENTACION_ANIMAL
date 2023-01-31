@@ -34,16 +34,11 @@
       br
       br
       br
-
-
-      .titulo-sexto.color-acento-contenido.mb-3
-          h5 Figura 6.
-          span <em>Estructura general de las gramíneas</em>
-      
+    
       ImagenInfografica.color-primario
           template(v-slot:imagen)
             figure
-              img(src='@/assets/curso/temas/img-punto-caliente-gram-tema5.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/img-punto-caliente-gram-tema5.png', alt='')
               //figcaption Leyenda de la imagen
 
           .tarjeta.color-acento-botones.p-3(x="20%" y="10%" numero="1")
@@ -77,7 +72,7 @@
 
     .row.container.justify-content-around.align-items-center
 
-        p A continuación, se ven las especies de gramíneas adecuadas, principalmente para climas cálidos: 
+        p Existen, también, las especies de gramíneas, adecuadas, principalmente, para climas cálidos. Estas son:
 
         h4 Gramíneas de clima cálido
         
@@ -86,7 +81,7 @@
           .col-lg-12
 
             figure
-              img(src='@/assets/curso/temas/diagrama-gram-clima-calido.png', alt='Texto que describa la imagen').diagrama-gram-clima-calido
+              img(src='@/assets/curso/temas/1.svg', alt='').diagrama-gram-clima-calido
         
         p.texto-inf-gram-clima-calido Adicionalmente, otro tipo de planta que se puede utilizar son las leguminosas. En Colombia, estas plantas pueden usarse para cultivarlas y también como complemento para la nutrición animal.
 
@@ -102,15 +97,12 @@
         p Pertenecientes a las familias de las dicotiledóneas, poseen bacterias especializadas para fijar nitrógeno, transformándolo por medio del proceso de simbiosis, una parte de este se va a las hojas para almacenarse en forma de proteína y el restante se fija en el suelo por medio de los nódulos para ayudar con la fertilidad del suelo (Pérez, 2017)
         br
         br
-      
-        .titulo-sexto.color-acento-contenido.mb-3
-          h5 Figura 7.
-          span <em>Crecimiento de las leguminosas</em> 
+        p.mb-5 A continuación, conozca la estructura y formas de crecimiento de las leguminosas:
 
         ImagenInfografica.color-primario
           template(v-slot:imagen)
             figure
-              img(src='@/assets/curso/temas/img-ptocal-leguminosas.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/img-ptocal-leguminosas.png', alt='')
               //figcaption Leyenda de la imagen
 
           .tarjeta.color-acento-botones.p-3(x="52%" y="70%" numero="1")
@@ -119,7 +111,7 @@
 
           .tarjeta.color-acento-botones.p-3(x="80%" y="83%" numero="2")
             //.h5.mb-2 titulo
-            p #[strong Las Sistema radicular:] profundo y con nódulos, fijan el nitrógeno atmosférico.
+            p #[strong Sistema radicular:] profundo y con nódulos, fijan el nitrógeno atmosférico.
 
 
           .tarjeta.color-acento-botones.p-3(x="62%" y="14%" numero="3")
@@ -135,7 +127,7 @@
             //.h5.mb-2 titulo
             p #[strong Semillas:] crecimiento en fila y dentro de una vaina.
         
-        p Ahora veremos algunas leguminosas de importancia nutricional para manejar especies pecuarias conforme con criterios técnicos y normativa de producción agropecuaria ecológica.
+        p Ahora, se presentarán algunas leguminosas de importancia nutricional para manejar especies pecuarias, conforme con criterios técnicos y normativa de producción agropecuaria ecológica:
 
     
     br
@@ -153,115 +145,82 @@
           
           .col-lg-8
             figure
-              img(src='@/assets/curso/temas/legum-forrajeras-tema5.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/legum-forrajeras-tema5.png', alt='')
         
-        p.texto-inf-leg-forrajeras Las leguminosas pueden crecer en forma de arbusto como lo vimos anteriormente; así mismo, su crecimiento se desarrolla vegetativamente en forma de pasto, como lo veremos en la siguiente imagen. Conocer la diferencia morfológica de especies forrajeras es importante para el manejo de pastizales en alimentación animal.
+        p.texto-inf-leg-forrajeras Las leguminosas pueden crecer en forma de arbusto; así mismo, su crecimiento se desarrolla vegetativamente en forma de pasto, como lo veremos en la siguiente imagen. Conocer la diferencia morfológica de especies forrajeras, es importante para el manejo de pastizales en alimentación animal.
 
     
     br
     br
     br
 
-    .row.container.justify-content-around.align-items-center
 
-        .titulo-sexto.color-acento-contenido.mb-3
-          h5 Figura 8.
-          span <em>Anatomía de las leguminosas tipo pasto</em> 
+
+    .titulo-sexto.color-acento-contenido.mb-3
+      p.mb-0 <b>Figura 4</b><br> <em>Anatomía de las leguminosas tipo pasto</em> 
+
 
     
-        
-        .row 
-          .col-lg-12
-            figure
-              img(src='@/assets/curso/temas/img-anat-legum-tip-pasto.png', alt='Texto que describa la imagen').img-anat-legum-tip-pasto
-            
-            p.texto-nota-anat-legum-tip-pasto Nota: La morfofisiologia de especies forrajeras como base del manejo de pastizales
+    .row 
+      .col-lg-12
+        figure
+          img(src='@/assets/curso/temas/img-anat-legum-tip-pasto.png', alt='').img-anat-legum-tip-pasto
 
-        p También existen otras especies de forrajes para la alimentación animal, las cuales son parte de algunas especies vegetales que ayudan a mejorar la dieta animal.
-
-    br
-    br
-    br
-
-    .row.container.justify-content-around.align-items-center
-        
-        h4 Otros forrajes para la alimentación animal
-
-        .row 
-
-          SlyderB.mb-3(:datos="datosSlyder").fondo-slider-tema5.tarjeta.p-3
-        p Los ciclos o sistemas de pastoreo tienen como objetivo aprovechar al máximo los alimentos disponibles y aumentar la producción del animal.
-
-    br
-    br
-    br
-
-    .row.container.justify-content-around.align-items-center
-
-        #ciclos-de-pastoreo
-        .titulo-segundo.color-acento-contenido
-          h2 5.1 Ciclos de pastoreo
-        
-        p El manejo de estos se hace dependiendo de la especie forrajera, condiciones del terreno, fertilidad, también el tipo y número de animales de la explotación. La frecuencia de pastoreo y de descanso de la pradera está estrechamente ligada con la velocidad de crecimiento y recuperación de los pastos, es importante conservarlos e implementar medidas sin causar afectaciones. Los principales sistemas de pastoreo son:
-
+    p.mb-5 También existen otras especies de forrajes para la alimentación animal, las cuales forman parte de algunas especies vegetales que ayudan a mejorar la dieta animal, como son:
 
         
-        SlyderF(columnas="col-lg-6 col-xl-4").bloque-carr-tarj-tema5
-          .tarjeta.fondo-tar-carr-tema5.p-4
-            .row.justify-content-center.mb-3
-              .col-8
-                img(src='@/assets/curso/temas/img1-carr-ciclos-pastor.png' alt='AvatarTop')
-            h4.text-center Pastoreo continuo
-            p El sistema más sencillo, usado en explotaciones extensivas. Allí los animales se encuentran en el mismo lote toda la época del año. Desde el punto de vista agroecológico, no se recomienda porque las plantas no cuentan con el tiempo necesario para recuperarse, el suelo se expone a erosión y aparición de arvenses, se dificultan labores de fertilización llevándolo a la alteración de sus propiedades.
-           
-          .tarjeta.fondo-tar-carr-tema5.p-4
-            .row.justify-content-center.mb-3
-              .col-8
-                img(src='@/assets/curso/temas/img2-carr-ciclos-pastor.png' alt='AvatarTop')
-            h4.text-center Pastoreo alterno
-            p Para este sistema se divide el potrero en dos para alternar los periodos de permanencia de los animales, permite controlar el tiempo de ocupación y descanso. Requiere de inversión en cercas, bebederos y comederos.
-            p.texto-invisible Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis quod sapiente ad eligendi dolorum deleniti corrupti quae praesentium pariatur, cupiditate quidem 
-            
-          .tarjeta.fondo-tar-carr-tema5.p-4
-            .row.justify-content-center.mb-3
-              .col-8
-                img(src='@/assets/curso/temas/img3-carr-ciclos-pastor.png' alt='AvatarTop')
-            h4.text-center Pastoreo rotacional
-            p El área total se divide en varios potreros y los animales se van moviendo de manera secuencial, controlando la ocupación durante periodos, asegurando la recuperación de la pradera. Es una modalidad homogénea que controla la pérdida de alimento y no se compacta el suelo por efectos de sobrepastoreo.
-            p.texto-invisible Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
+    h4.mb-5 Otros forrajes para la alimentación animal
 
-          .tarjeta.fondo-tar-carr-tema5.p-4
-            .row.justify-content-center.mb-3
-              .col-8
-                img(src='@/assets/curso/temas/img4-carr-ciclos-pastor.png' alt='AvatarTop')
-            h4.text-center Pastoreo en franjas
-            p Para este sistema debemos usar cerca eléctrica. Esta modalidad es usada en ganadería de leche, nos permite controlar el suministro de agua y sal, la cosecha del pasto es uniforme, de igual manera, la recuperación de la pradera.
-            p.texto-invisible Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique voluptate quia necessitatibus explicabo dignissimos 
+    SlyderB.mb-5(:datos="datosSlyder").fondo-slider-tema5.tarjeta.p-5
 
-          .tarjeta.fondo-tar-carr-tema5.p-4
-            .row.justify-content-center.mb-3
-              .col-8
-                img(src='@/assets/curso/temas/img5-carr-ciclos-pastor.png' alt='AvatarTop')
-            h4.text-center Confinamiento pastoreo cero
-            p El animal se encuentra todo el tiempo estabulado, es un sistema intensivo, permite aumentar la carga animal, no hay pérdida por pisoteo y se aprovecha de mejor forma el forraje.
-            p.texto-invisible Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique voluptate quia necessitatibus explicabo dignissimos nesciunt voluptas quae voluptate quia 
-        p.texto-inf-ciclos-pastoreo Como hemos visto los ciclos o sistemas de pastoreo tienen como objetivo aprovechar al máximo los alimentos disponibles y aumentar la producción del animal; esto se logra con una conservación de los forrajes para conservar y preservar por más tiempo la disponibilidad de recursos alimenticios como veremos en el siguiente video.
+    p.mb-5 <b>Nota importante</b>: los ciclos o sistemas de pastoreo tienen como objetivo aprovechar al máximo los alimentos disponibles y aumentar la producción del animal.
+
+    h3 Ciclos de pastoreo
+        
+    p El manejo de estos se hace dependiendo de la especie forrajera, condiciones del terreno, fertilidad, también el tipo y número de animales de la explotación. La frecuencia de pastoreo y de descanso de la pradera está estrechamente ligada con la velocidad de crecimiento y recuperación de los pastos, es importante conservarlos e implementar medidas sin causar afectaciones. Los principales sistemas de pastoreo son:
 
 
-    br
-    br
-    br
+    
+    SlyderF(columnas="col-lg-6 col-xl-4").bloque-carr-tarj-tema5
+      .tarjeta.fondo-tar-carr-tema5.p-4.h-100
+        .row.justify-content-center.mb-3
+          .col-8
+            img(src='@/assets/curso/temas/img1-carr-ciclos-pastor.png' alt='AvatarTop')
+        h4.text-center Pastoreo continuo
+        p El sistema más sencillo, usado en explotaciones extensivas. Allí los animales se encuentran en el mismo lote toda la época del año. Desde el punto de vista agroecológico, no se recomienda porque las plantas no cuentan con el tiempo necesario para recuperarse, el suelo se expone a erosión y aparición de arvenses, se dificultan labores de fertilización llevándolo a la alteración de sus propiedades.
+        
+      .tarjeta.fondo-tar-carr-tema5.p-4.h-100
+        .row.justify-content-center.mb-3
+          .col-8
+            img(src='@/assets/curso/temas/img2-carr-ciclos-pastor.png' alt='AvatarTop')
+        h4.text-center Pastoreo alterno
+        p Para este sistema se divide el potrero en dos para alternar los periodos de permanencia de los animales, permite controlar el tiempo de ocupación y descanso. Requiere de inversión en cercas, bebederos y comederos.
+        p.texto-invisible Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis quod sapiente ad eligendi dolorum deleniti corrupti quae praesentium pariatur, cupiditate quidem 
+        
+      .tarjeta.fondo-tar-carr-tema5.p-4.h-100
+        .row.justify-content-center.mb-3
+          .col-8
+            img(src='@/assets/curso/temas/img3-carr-ciclos-pastor.png' alt='AvatarTop')
+        h4.text-center Pastoreo rotacional
+        p El área total se divide en varios potreros y los animales se van moviendo de manera secuencial, controlando la ocupación durante periodos, asegurando la recuperación de la pradera. Es una modalidad homogénea que controla la pérdida de alimento y no se compacta el suelo por efectos de sobrepastoreo.
+        p.texto-invisible Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
 
-    .row.container.justify-content-around.align-items-center
+      .tarjeta.fondo-tar-carr-tema5.p-4.h-100
+        .row.justify-content-center.mb-3
+          .col-8
+            img(src='@/assets/curso/temas/img4-carr-ciclos-pastor.png' alt='AvatarTop')
+        h4.text-center Pastoreo en franjas
+        p Para este sistema debemos usar cerca eléctrica. Esta modalidad es usada en ganadería de leche, nos permite controlar el suministro de agua y sal, la cosecha del pasto es uniforme, de igual manera, la recuperación de la pradera.
+        p.texto-invisible Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique voluptate quia necessitatibus explicabo dignissimos 
 
-      #conservacion-forrajes
-      .titulo-segundo.color-acento-contenido
-          h2 5.2 Conservación forrajes
-
-
-      //p El manejo de estos se hace dependiendo de la especie forrajera, condiciones del terreno, fertilidad, también el tipo y número de animales de la explotación. La frecuencia de pastoreo y de descanso de la pradera está estrechamente ligada con la velocidad de crecimiento y recuperación de los pastos, es importante conservarlos e implementar medidas sin causar afectaciones. Los principales sistemas de pastoreo son:
-      
-      h4 Conservación de forrajes
+      .tarjeta.fondo-tar-carr-tema5.p-4.h-100
+        .row.justify-content-center.mb-3
+          .col-8
+            img(src='@/assets/curso/temas/img5-carr-ciclos-pastor.png' alt='AvatarTop')
+        h4.text-center Confinamiento pastoreo cero
+        p El animal se encuentra todo el tiempo estabulado, es un sistema intensivo, permite aumentar la carga animal, no hay pérdida por pisoteo y se aprovecha de mejor forma el forraje.
+        p.texto-invisible Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique voluptate quia necessitatibus explicabo dignissimos nesciunt voluptas quae voluptate quia 
+    p.texto-inf-ciclos-pastoreo.my-5 Los ciclos o sistemas de pastoreo tienen como objetivo aprovechar al máximo los alimentos disponibles y aumentar la producción del animal; esto se logra con un sostenimiento de los forrajes, para conservar y preservar por más tiempo la disponibilidad de recursos alimenticios, como se explica en el siguiente video:
 
       .row.tarjeta.tarjeta--blanca.p-2.p-md-3
 
@@ -269,22 +228,10 @@
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-      p Dentro de la conservación de los forrajes para conservar y preservar el alimento para los animales, también es importante conocer sobre los tipos de silos para la nutrición animal, como veremos a continuación.
-      
-    br
-    br
-    br
+      p.mt-5 Dentro de la preservación de los forrajes, para conservar y preservar el alimento para los animales, también es importante conocer sobre los tipos de silos para la nutrición animal, como veremos a continuación:
 
-    .row.container.justify-content-around.align-items-center
-      
-      h3 Tipos de silos
-      br
-      br
-      br
 
-      h4 Otros forrajes para la alimentación animal
-
-      p Existen otros forrajes para la alimentación animal que se utilizan para el manejo de la producción pecuaria.
+      p Existen otros forrajes para la alimentación animal que se utilizan para el manejo de la producción pecuaria:
 
       
       TabsC.color-primario.fondo-tabs-horiz-tema5
@@ -296,7 +243,7 @@
           
             .col-md-7.mb-5.mb-md-0
               figure
-                img(src='@/assets/curso/temas/img-silos-trinc-tema5.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/img-silos-trinc-tema5.png', alt='')
                 //figcaption Leyenda de la imagen
 
         .py-3.py-md-4(titulo="Silo de cajón o búnker")
@@ -308,7 +255,7 @@
             
             .col-md-7.mb-5.mb-md-0
               figure
-                img(src='@/assets/curso/temas/img-silo-cajon-tema5.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/img-silo-cajon-tema5.png', alt='')
                 //figcaption Leyenda de la imagen
 
         
@@ -321,7 +268,7 @@
             
             .col-md-7.mb-5.mb-md-0
               figure
-                img(src='@/assets/curso/temas/silo-monton-tema5.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/silo-monton-tema5.png', alt='')
                 //figcaption Leyenda de la imagen
 
         .py-3.py-md-4(titulo="Silos de bolsa")
@@ -329,16 +276,14 @@
 
             .col-md-5
               //h4 Celebrate your failures 2
-              p.texto-izq-tabs-horizontales Es la manera más rudimentaria y práctica para conservar alimento. Se hace en bolsas resistentes de polietileno 
+              p.texto-izq-tabs-horizontales Es la manera más rudimentaria y práctica para conservar alimento. Se hace en bolsas resistentes de polietileno.
             
             .col-md-7.mb-5.mb-md-0
               figure
-                img(src='@/assets/curso/temas/silos-de-bolsa-tema5.png', alt='Texto que describa la imagen').imagenes-tabs-horizontales
+                img(src='@/assets/curso/temas/silos-de-bolsa-tema5.png', alt='').imagenes-tabs-horizontales
                 //figcaption Leyenda de la imagen
-      .texto-final-tema5
-        p Los sistemas agroforestales, fundamentalmente, son la combinación de especies forestales con especies de importancia agrícola, procurando mantener el equilibrio del sistema. Para su establecimiento debemos tener un manejo adecuado del suelo que cumpla los requerimientos que la planta necesite para su buen desarrollo, la idea es asociar árboles maderables o de diversos usos con cultivos de importancia en la producción animal. 
-        p En la siguiente imagen explicaremos los diferentes tipos de sistemas agroforestales de importancia para la producción animal y la conservación.
 
+    p.mt-4.pt-5 Los sistemas agroforestales, fundamentalmente, son la combinación de especies forestales con especies de importancia agrícola, procurando mantener el equilibrio del sistema. Para su establecimiento debemos tener un manejo adecuado del suelo que cumpla los requerimientos que la planta necesite para su buen desarrollo, la idea es asociar árboles maderables o de diversos usos con cultivos de importancia en la producción animal. 
 
 </template>
 
@@ -352,14 +297,14 @@ export default {
         titulo: 'Árboles forrajeros',
         texto:
           'Raíces forrajeras: son una alternativa para alimentar los animales. Especialmente en épocas de verano cuando el forraje de las praderas baja considerablemente, se deben aprovechar al máximo los productos fibrosos disponibles en la finca.',
-        imagen: require('@/assets/curso/temas/img-raices-forrajeras.png'),
+        imagen: require('@/assets/curso/temas/img2-raices-forrajeras.png'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
       {
         titulo: 'Raíces forrajeras',
         texto:
           'Han venido incorporándose en los sistemas de producción, principalmente, adaptándolos a sistemas como el silvopastoril. Son fuentes de fibra y proteína. También los emplean en programas de reforestación, como maderable, cercas vivas y programas de conservación de suelos.',
-        imagen: require('@/assets/curso/temas/img2-raices-forrajeras.png'),
+        imagen: require('@/assets/curso/temas/img-raices-forrajeras.png'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
     ],
