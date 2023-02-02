@@ -155,7 +155,7 @@
     br
 
 
-
+    p.mb-5 El siguiente esquema muestra las leguminosas, tipo pasto, y algunas generalidades de estas:
     .titulo-sexto.color-acento-contenido.mb-3
       p.mb-0 <b>Figura 4</b><br> <em>Anatomía de las leguminosas tipo pasto</em> 
 
@@ -166,11 +166,11 @@
         figure
           img(src='@/assets/curso/temas/img-anat-legum-tip-pasto.png', alt='').img-anat-legum-tip-pasto
 
-    p.mb-5 También existen otras especies de forrajes para la alimentación animal, las cuales forman parte de algunas especies vegetales que ayudan a mejorar la dieta animal, como son:
+
 
         
-    h4.mb-5 Otros forrajes para la alimentación animal
-
+    h4 Otros forrajes para la alimentación animal
+    p.mb-5 También existen otras especies de forrajes para la alimentación animal, las cuales forman parte de algunas especies vegetales que ayudan a mejorar la dieta animal, como son:
     SlyderB.mb-5(:datos="datosSlyder").fondo-slider-tema5.tarjeta.p-5
 
     p.mb-5 <b>Nota importante</b>: los ciclos o sistemas de pastoreo tienen como objetivo aprovechar al máximo los alimentos disponibles y aumentar la producción del animal.

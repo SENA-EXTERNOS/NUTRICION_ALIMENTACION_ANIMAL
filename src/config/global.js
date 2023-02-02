@@ -214,8 +214,7 @@ export default {
     {
       referencia:
         'Moran, E. (2018). <i>Anatomofisiología del tracto digestivo de aves y cerdos y la influencia de los alimentos</i>. LPN Congress.',
-      link:
-        'https://lpncongress.com/wp-content/uploads/2018/10/anatomofisiologia-del-tracto-digestivo-de-aves-y-cerdos-y-la-influencia-de-los-alimentos-edwin-moran.pdf',
+      link: 'https://issuu.com/avinews/docs/libro-memorias-lpn-congress-web',
     },
     {
       referencia:
