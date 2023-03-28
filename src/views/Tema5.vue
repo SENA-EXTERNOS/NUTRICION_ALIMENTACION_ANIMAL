@@ -226,7 +226,7 @@
 
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/I2G6MjqXGRQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
       p.mt-5 Dentro de la preservación de los forrajes, para conservar y preservar el alimento para los animales, también es importante conocer sobre los tipos de silos para la nutrición animal, como veremos a continuación:
 
