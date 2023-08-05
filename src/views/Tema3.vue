@@ -8,20 +8,15 @@
       h1 Nutrición y alimentación animal
     
     
-    .row.container.justify-content-around.align-items-center
-      .row
-        .bloque-texto-color-tar1-tema3
-        .col-lg-7
-          .texto-tar1-tema3
-            p La alimentación es el proceso por el que suministramos alimento a las especies, el cual debe estar en excelentes condiciones y con la capacidad de suplir las necesidades y requerimientos en todas las etapas productivas de los animales.
-            p Los requerimientos alimenticios dependen de algunas variables como tamaño, raza y clima. Por lo general, los animales grandes necesitan altos requerimientos de mantenimiento a diferencia de las especies pequeñas. Este mismo caso pasa con animales jóvenes, pues la etapa de crecimiento consume dependiendo de la ganancia de peso diaria y está relacionada con la dieta suministrada.
-        
-        .col-lg-5
-          figure
-              img(data-aos="fade-left")(src="@/assets/curso/temas/img1-tema3.png", alt="alt").img1-tema3
-        
-        p El alimento es fundamental para hablar de procesos de nutrición para la producción animal.
-        p Se entiende por alimento todo tipo de material comestible, sin tener en cuenta la digestibilidad. De esta manera, es necesario asegurar que este aporte los requerimientos para satisfacer el cuerpo animal.
+    .row.justify-content-center.mb-4
+      .col-lg-7
+          p La alimentación es el proceso por el que suministramos alimento a las especies, el cual debe estar en excelentes condiciones y con la capacidad de suplir las necesidades y requerimientos en todas las etapas productivas de los animales.
+          p Los requerimientos alimenticios dependen de algunas variables como tamaño, raza y clima. Por lo general, los animales grandes necesitan altos requerimientos de mantenimiento a diferencia de las especies pequeñas. Este mismo caso pasa con animales jóvenes, pues la etapa de crecimiento consume dependiendo de la ganancia de peso diaria y está relacionada con la dieta suministrada.
+          p El alimento es fundamental para hablar de procesos de nutrición para la producción animal.
+          p Se entiende por alimento todo tipo de material comestible, sin tener en cuenta la digestibilidad. De esta manera, es necesario asegurar que este aporte los requerimientos para satisfacer el cuerpo animal.
+      .col-lg-5
+        figure
+            img(data-aos="fade-left")(src="@/assets/curso/temas/img1-tema3.png", alt="alt").img1-tema3
 
     p.my-5 El siguiente esquema muestra los aspectos más fundamentales de la composición de los alimentos:
     img.img-a.img-t.mb-5(src="@/assets/curso/temas/cuadro-comp-alimento-tema3.png", alt="alt")

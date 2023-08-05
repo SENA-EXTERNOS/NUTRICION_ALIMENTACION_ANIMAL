@@ -173,8 +173,6 @@
     p.mb-5 También existen otras especies de forrajes para la alimentación animal, las cuales forman parte de algunas especies vegetales que ayudan a mejorar la dieta animal, como son:
     SlyderB.mb-5(:datos="datosSlyder").fondo-slider-tema5.tarjeta.p-5
 
-    p.mb-5 <b>Nota importante</b>: los ciclos o sistemas de pastoreo tienen como objetivo aprovechar al máximo los alimentos disponibles y aumentar la producción del animal.
-
     h3 Ciclos de pastoreo
         
     p El manejo de estos se hace dependiendo de la especie forrajera, condiciones del terreno, fertilidad, también el tipo y número de animales de la explotación. La frecuencia de pastoreo y de descanso de la pradera está estrechamente ligada con la velocidad de crecimiento y recuperación de los pastos, es importante conservarlos e implementar medidas sin causar afectaciones. Los principales sistemas de pastoreo son:
@@ -296,7 +294,7 @@ export default {
       {
         titulo: 'Árboles forrajeros',
         texto:
-          'Raíces forrajeras: son una alternativa para alimentar los animales. Especialmente en épocas de verano cuando el forraje de las praderas baja considerablemente, se deben aprovechar al máximo los productos fibrosos disponibles en la finca.',
+          'Raíces forrajeras: son una alternativa para alimentar los animales. Especialmente en épocas de verano, cuando el forraje de las praderas baja considerablemente, se deben aprovechar al máximo los productos fibrosos disponibles en la finca.',
         imagen: require('@/assets/curso/temas/img2-raices-forrajeras.png'),
         // leyendaImagen: 'Leyenda de la imagen',
       },

@@ -24,29 +24,29 @@
 
     AcordionA(tipo="a" clase-tarjeta="tarjeta fondo-externo-acordeon-tema4")
 
-        .row(titulo="Alimentos voluminosos")
-          .col-md-12.mb-8.mb-md-0
-            p.texto-acordeon-tema1 Acá encontramos los forrajes, pastos y residuos del proceso agrícola. 
+        .row.justify-content-center(titulo="Alimentos voluminosos")
+          .col-11
+            p Acá encontramos los forrajes, pastos y residuos del proceso agrícola. 
 
 
-        .row(titulo="Concentrados")
-          .col-md-12.mb-8.mb-md-0
-            p.texto-acordeon-tema1 Los encontramos de origen animal como vegetal.
+        .row.justify-content-center(titulo="Concentrados")
+          .col-11
+            p Los encontramos de origen animal como vegetal.
 
         
-        .row(titulo="Productos de procesos agricolas")
-          .col-md-12.mb-8.mb-md-0
-            p.texto-acordeon-tema1 Son los residuos de la agroindustria, requieren de proceso para su debida conservación, su contenido de agua es alto.
+        .row.justify-content-center(titulo="Productos de procesos agricolas")
+          .col-11
+            p Son los residuos de la agroindustria, requieren de proceso para su debida conservación, su contenido de agua es alto.
 
 
-        .row(titulo="Residuos de alimentos")
-          .col-md-12.mb-8.mb-md-0
-            p.texto-acordeon-tema1 Son los desechos de los alimentos de consumo humano, debemos ser selectivos y eliminar los elementos que puedan causar daño como (huesos, papel y plástico).
+        .row.justify-content-center(titulo="Residuos de alimentos")
+          .col-11
+            p Son los desechos de los alimentos de consumo humano, debemos ser selectivos y eliminar los elementos que puedan causar daño como (huesos, papel y plástico).
 
 
-        .row(titulo="Aditivos animales")
-          .col-md-12.mb-8.mb-md-0
-            p.texto-acordeon-tema1 Son mezclas que se utilizan para compensar las deficiencias de vitaminas y minerales.
+        .row.justify-content-center(titulo="Aditivos animales")
+          .col-11
+            p Son mezclas que se utilizan para compensar las deficiencias de vitaminas y minerales.
 
     p Dentro de la alimentación agroecológica se tienen algunas especies vegetales conocidas como pastos y forrajes, de gran importancia para la alimentación y nutrición de los animales, las cuales pueden ser cultivadas al interior del predio para el fortalecimiento productivo.
  

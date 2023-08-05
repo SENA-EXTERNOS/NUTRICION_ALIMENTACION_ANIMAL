@@ -8,7 +8,7 @@
       h1 Principios de anatomía y fisiología digestiva, animal
     
     
-    p En el sistema digestivo ocurren todo tipo de modificaciones físicas y químicas de los alimentos para, luego, absorber lo que es utilizable y eliminar lo que no sirve. Sabemos que existen animales que asimilan la celulosa y otros que no tienen esa posibilidad. De acuerdo con lo anterior es necesario entender muy bien el funcionamiento de los monogástricos y los poligástricos y, los órganos que los componen, para poder brindar una buena alimentación en todas las etapas de producción:
+    p En el sistema digestivo ocurren todo tipo de modificaciones físicas y químicas de los alimentos para, luego, absorber lo que es utilizable y eliminar lo que no sirve. Sabemos que existen animales que asimilan la celulosa y otros que no tienen esa posibilidad. De acuerdo con lo anterior, es necesario entender muy bien el funcionamiento de los monogástricos y los poligástricos y, los órganos que los componen, para poder brindar una buena alimentación en todas las etapas de producción:
 
     p.mb-5 Como un ejemplo, y como se muestra a continuación, identifiquemos la estructura anatómica de la vaca:
         
@@ -49,7 +49,7 @@
               br
               | #[strong Intestino grueso:] parte ancha encargada de recibir los productos de desecho, absorbe el agua y deja circular las heces.
 
-          p(numero="12" titulo="Órganos anexos") en los órganos anexos del tubo digestivo encontramos dos: hígado y páncreas, los cuales contribuyen a la digestión de los animales mediante secreciones. El hígado, glándula con mayor volumen, es el más importante, cumple funciones como secretar bilis; fijar aminoácidos; almacenar glucosa; formar urea; evitar compuestos de los aminoácidos  en la sangre; descomponer, de forma parcial, las grasas; almacenar las vitaminas; realizar el proceso de detoxificación; contribuir a las células del sistema inmune; y metabolizar el hierro.
+          p(numero="12" titulo="Órganos anexos") En los órganos anexos del tubo digestivo encontramos dos: hígado y páncreas, los cuales contribuyen a la digestión de los animales mediante secreciones. El hígado, glándula con mayor volumen, es el más importante, cumple funciones como secretar bilis; fijar aminoácidos; almacenar glucosa; formar urea; evitar compuestos de los aminoácidos  en la sangre; descomponer, de forma parcial, las grasas; almacenar las vitaminas; realizar el proceso de detoxificación; contribuir a las células del sistema inmune; y metabolizar el hierro.
             br
             br
             | Mientras que el páncreas es una glándula situada en el abdomen y su función es verter un líquido incoloro, inodoro y viscoso en el intestino delgado. 
@@ -61,7 +61,7 @@
 
     h3.mt-5.pt-5 Sistema digestivo de los rumiantes
         
-    p Los animales clasificados como rumiantes son los bovinos, ovinos y caprinos, los cuales funcionan de la siguiente manera: mastican la comida aun cuando no ingieren alimentos. Esta acción de masticación se llama rumia, proceso que realizan para destruir las partículas de la fibra produciendo así la saliva, que se encarga de neutralizar los ácidos producidos por la fermentación.
+    p Los animales clasificados como rumiantes son los bovinos, ovinos y caprinos, los cuales funcionan de la siguiente manera: mastican la comida aun cuando no ingieren alimentos. Esta acción de masticación se llama rumia, proceso que realizan para destruir las partículas de la fibra, produciendo así la saliva, que se encarga de neutralizar los ácidos producidos por la fermentación.
 
     p Estudie, con suma atención, el proceso de digestión de los rumiantes:
 
@@ -183,7 +183,7 @@
         figure
             img(data-aos="fade-left")(src="@/assets/curso/temas/img-apr-dig-rumiantes.png", alt="alt").img-apar-diges-rumiantes-tema2
     
-    p.texto-color-apar-diges-rumiantes-tema2.p-4 A diferencia de estas especies poligástricas, encontramos animales que no tienen la capacidad de degradar fácilmente el tejido vegetal como son las aves y los porcinos; su tracto digestivo funciona de forma similar al del humano (Moran, 2018), por lo que es necesario suministrar alimentos de buena calidad y dietas balanceadas para asegurar una alta producción. 
+    p.texto-color-apar-diges-rumiantes-tema2.p-4 A diferencia de estas especies poligástricas, encontramos animales que no tienen la capacidad de degradar fácilmente el tejido vegetal, como son las aves y los porcinos; su tracto digestivo funciona de forma similar al del humano (Moran, 2018), por lo que es necesario suministrar alimentos de buena calidad y dietas balanceadas para asegurar una alta producción. 
 
     br
     br
