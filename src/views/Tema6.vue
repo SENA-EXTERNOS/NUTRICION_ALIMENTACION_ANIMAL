@@ -40,7 +40,7 @@
             br
             h4.text-center Sistema agrosilvicultural
             
-            p.text-center combina árboles con cultivos agrícolas en el mismo lote.
+            p.text-center Combina árboles con cultivos agrícolas en el mismo lote.
 
         .col-lg-4.fondo-tarj2-conect-tema6
             figure
@@ -48,7 +48,7 @@
             
             h4.text-center Sistema agrosilvopastoril
             
-            p.text-center combina árboles, cultivos agrícolas y pastos en el mismo lote.
+            p.text-center Combina árboles, cultivos agrícolas y pastos en el mismo lote.
 
         .col-lg-4.fondo-tarj3-conect-tema6
             figure
@@ -56,7 +56,7 @@
             br
             h4.text-center Sistema silvopastoril
             
-            p.text-center combina árboles y pastos.
+            p.text-center Combina árboles y pastos.
 
     br
     br

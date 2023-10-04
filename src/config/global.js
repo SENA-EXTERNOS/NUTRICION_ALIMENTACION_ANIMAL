@@ -113,7 +113,7 @@ export default {
     {
       tema: 'Programa de alimentación agroecológica',
       referencia:
-        'Canal Bodega orgánica. (2022). <i>Importancia de consumir agroecológico</i>.',
+        'Canal Bodega orgánica. (2022). <i>Alimentación y agroecología</i>.',
       tipo: 'video',
       link: 'https://youtu.be/GeAyZLlztVk',
     },
@@ -133,7 +133,7 @@ export default {
     {
       tema: 'Sistemas agroforestales',
       referencia:
-        'Canal Ganadería colombiana sostenible. (2018). <i>Ganadería sostenible</i>.',
+        'Canal Ganadería colombiana sostenible. (2018). <i>Manejo de praderas y sistemas de pastoreo</i>.',
       tipo: 'video',
       link: 'https://youtu.be/jmeXgBzCoGI',
     },

@@ -94,7 +94,7 @@
 
         h4 Leguminosas
 
-        p Pertenecientes a las familias de las dicotiledóneas, poseen bacterias especializadas para fijar nitrógeno, transformándolo por medio del proceso de simbiosis, una parte de este se va a las hojas para almacenarse en forma de proteína y el restante se fija en el suelo por medio de los nódulos para ayudar con la fertilidad del suelo (Pérez, 2017)
+        p Pertenecientes a las familias de las dicotiledóneas, poseen bacterias especializadas para fijar nitrógeno, transformándolo por medio del proceso de simbiosis, una parte de este se va a las hojas para almacenarse en forma de proteína y el restante se fija en el suelo por medio de los nódulos para ayudar con la fertilidad del suelo (Pérez, 2017).
         br
         br
         p.mb-5 A continuación, conozca la estructura y formas de crecimiento de las leguminosas:

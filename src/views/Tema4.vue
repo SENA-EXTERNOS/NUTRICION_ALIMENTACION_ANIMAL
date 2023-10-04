@@ -34,7 +34,7 @@
             p Los encontramos de origen animal como vegetal.
 
         
-        .row.justify-content-center(titulo="Productos de procesos agricolas")
+        .row.justify-content-center(titulo="Productos de procesos agrícolas")
           .col-11
             p Son los residuos de la agroindustria, requieren de proceso para su debida conservación, su contenido de agua es alto.
 

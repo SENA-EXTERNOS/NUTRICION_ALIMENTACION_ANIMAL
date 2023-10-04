@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 Principios de anatomía y fisiología digestiva, animal
+      h1 Principios de anatomía y fisiología digestiva animal
     
     
     p En el sistema digestivo ocurren todo tipo de modificaciones físicas y químicas de los alimentos para, luego, absorber lo que es utilizable y eliminar lo que no sirve. Sabemos que existen animales que asimilan la celulosa y otros que no tienen esa posibilidad. De acuerdo con lo anterior, es necesario entender muy bien el funcionamiento de los monogástricos y los poligástricos y, los órganos que los componen, para poder brindar una buena alimentación en todas las etapas de producción:
@@ -72,7 +72,7 @@
           //figcaption Leyenda de la imagen
 
       .tarjeta.fondo-color-tarj-pto.p-3(x="10%" y="67%" numero="1")
-        .h5.mb-2 Panza o Rumen
+        .h5.mb-2 Panza o rumen
         p Es el más voluminoso.
         p Presenta una pared delgada.
         p Su interior está recubierto por una mucosa dura.
@@ -97,7 +97,7 @@
         p Posee glándulas secretoras de jugo gástrico.
 
       .tarjeta.fondo-color-tarj-pto.p-3(x="28%" y="92%" numero="5")
-        .h5.mb-2 Degradar Alimentos
+        .h5.mb-2 Degradar alimentos
         p Acción de almacenar, fermentar, absorber las sustancias nutritivas de la degradación microbiana de los alimentos y realizar el proceso de la biosíntesis.
 
       .tarjeta.fondo-color-tarj-pto.p-3(x="44%" y="92%" numero="6")
@@ -105,7 +105,7 @@
         p Lugar donde caen los cuerpos extraños de los alimentos sólidos.
       
       .tarjeta.fondo-color-tarj-pto.p-3(x="61%" y="92%" numero="7")
-        .h5.mb-2 Triturar y Secar
+        .h5.mb-2 Triturar y secar
         p Su función es triturar y secar los alimentos, y comprimirlos entre sus láminas. Facilita el proceso de la rumia.
 
       .tarjeta.fondo-color-tarj-pto.p-3(x="77%" y="92%" numero="8")
@@ -140,7 +140,7 @@
 
           p(numero="2" titulo="Degradación de celulosa") Uno de los componentes de los forrajes es la celulosa, la cual es parte de la pared celular de los vegetales. La flora microbiana presente en el rumen posee la capacidad de degradar este componente. los productos de la degradación se componen de: ácidos grasos volátiles y gases.
 
-          p(numero="3" titulo="Ácidos grasos volátiles") llamados (acético, propiónico y butírico) una gran parte de estos ácidos se absorben en la pared del rumen y son denominados los productos de mayor importancia dentro del metabolismo de los rumiantes. 
+          p(numero="3" titulo="Ácidos grasos volátiles") Llamados (acético, propiónico y butírico) una gran parte de estos ácidos se absorben en la pared del rumen y son denominados los productos de mayor importancia dentro del metabolismo de los rumiantes. 
             br
             br
             | El ácido acético es el encargado de la síntesis del material grasoso de la leche que se lleva a cabo en la ubre y almacena la grasa en el organismo. 
@@ -156,7 +156,7 @@
 
           p(numero="6" titulo="Síntesis de proteínas") La flora microbiana del rumen actúa sobre los alimentos que están compuestos por moléculas de nitrógeno (polipéptidos y proteínas). Durante este proceso se produce, principalmente, amoniaco, ácidos grasos volátiles y CO2, gases primordiales para que las bacterias produzcan sus propias proteínas.
 
-          p(numero="7" titulo="Síntesis de vitaminas") en los rumiantes adultos las vitaminas son sintetizadas por los microbios del rumen (levaduras y bacterias). Por esta razón, no necesitan que estas sean agregadas dentro de las dietas alimentarias.
+          p(numero="7" titulo="Síntesis de vitaminas") En los rumiantes adultos las vitaminas son sintetizadas por los microbios del rumen (levaduras y bacterias). Por esta razón, no necesitan que estas sean agregadas dentro de las dietas alimentarias.
 
 
     br
@@ -213,7 +213,7 @@
       .col-lg-8
 
         LineaTiempoD.color-secundario
-          p(numero="1" titulo="Pico") en lugar de labios, las aves poseen pico. La lengua posee bastante movilidad con forma de flecha, las glándulas salivales son poco desarrolladas, ya que no mastican los alimentos, en cambio, segregan una gran cantidad de enzimas que humedecen y lubrican los alimentos.
+          p(numero="1" titulo="Pico") En lugar de labios, las aves poseen pico. La lengua posee bastante movilidad con forma de flecha, las glándulas salivales son poco desarrolladas, ya que no mastican los alimentos, en cambio, segregan una gran cantidad de enzimas que humedecen y lubrican los alimentos.
 
           p(numero="2" titulo="Esófago") Conducto tubular bastante amplio con paredes delgadas, se comunica con el buche.
 

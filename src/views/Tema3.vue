@@ -23,9 +23,7 @@
 
     h3 Tipos de nutrientes
     
-    p Cuando nos referimos a nutrientes, decimos que son los aportes químicos indispensables para sobrevivir, crecer y reproducirse. 
-
-    p el siguiente esquema gráfico, reconozca y comprenda los tipos de nutrientes:
+    p Cuando nos referimos a nutrientes, decimos que son los aportes químicos indispensables para sobrevivir, crecer y reproducirse. En el siguiente esquema gráfico, reconozca y comprenda los tipos de nutrientes:
 
     .row
       .col-lg-12
@@ -57,7 +55,7 @@
     img.img-a.img-t.mb-5(data-aos="fade-left")(src="@/assets/curso/temas/cuadro-req-nutri-bobinos-tema3.png", alt="alt")
       
     p La alimentación de los bovinos y los porcinos es diferente. Para los cerdos, se deben suministrar raciones con alto valor nutritivo, dado que, por su genética, su crecimiento es rápido y acelerado. Es importante el suministro de agua potable, ya que si la cantidad no es adecuada los rendimientos productivos disminuyen. 
-    p.mb-5 A continuación, pueden verse los requerimientos nutritivos para los cerdos. En el siguiente Botón amplía la información. 
+    p.mb-5 A continuación, pueden verse los requerimientos nutritivos para los cerdos.
         
     .titulo-sexto.color-acento-contenido
       p.mb-0 <b>Tabla 2</b><br> <em>Requerimientos nutricionales según la etapa de desarrollo</em>
